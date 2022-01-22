@@ -1,3180 +1,3180 @@
 {
-    "countries": [
+  "countries": [
+    {
+      "leagues": [
         {
-            "leagues": [
-                {
-                    "leagueName": "Superliga",
-                    "key": "AlbaniaSuperliga"
-                },
-                {
-                    "leagueName": "1st Division",
-                    "key": "Albania1stDivision"
-                },
-                {
-                    "leagueName": "2nd Division Group A",
-                    "key": "Albania2ndDivisionGroupA"
-                },
-                {
-                    "leagueName": "2nd Division Group B",
-                    "key": "Albania2ndDivisionGroupB"
-                }
-            ],
-            "country": "Albania"
+          "leagueName": "UEFA Europa Conference League",
+          "key": "EurocupsUEFAEuropaConferenceLeague"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Ligue 1",
-                    "key": "AlgeriaLigue1"
-                },
-                {
-                    "leagueName": "Ligue 2",
-                    "key": "AlgeriaLigue2"
-                }
-            ],
-            "country": "Algeria"
+          "leagueName": "UEFA Champions League",
+          "key": "EurocupsUEFAChampionsLeague"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "1a Divisió",
-                    "key": "Andorra1aDivisio"
-                },
-                {
-                    "leagueName": "2a Divisió",
-                    "key": "Andorra2aDivisio"
-                }
-            ],
-            "country": "Andorra"
+          "leagueName": "UEFA Europa League",
+          "key": "EurocupsUEFAEuropaLeague"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Girabola",
-                    "key": "AngolaGirabola"
-                }
-            ],
-            "country": "Angola"
+          "leagueName": "null Semi-finals,Final,3rd Place Final",
+          "key": "EurocupsUEFANationsLeague"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Superliga",
-                    "key": "ArgentinaPrimeraDivision"
-                },
-                {
-                    "leagueName": "Prim B Nacional Apertura",
-                    "key": "ArgentinaPrimBNacional"
-                },
-                {
-                    "leagueName": "Prim B Metro",
-                    "key": "ArgentinaPrimBMetro"
-                },
-                {
-                    "leagueName": "Primera C",
-                    "key": "ArgentinaPrimCMetro"
-                },
-                {
-                    "leagueName": "Primera D",
-                    "key": "ArgentinaPrimDMetro"
-                },
-                {
-                    "leagueName": "Torneo Federal A",
-                    "key": "ArgentinaTorneoFederalA"
-                },
-                {
-                    "leagueName": "Torneo Federal B",
-                    "key": "ArgentinaTorneoFederalB"
-                },
-                {
-                    "leagueName": "Copa Argentina",
-                    "key": "ArgentinaCopaArgentina"
-                },
-                {
-                    "leagueName": "Copa De La Superliga",
-                    "key": "ArgentinaCopaDeLaSuperliga",
-                    "id_gs": 5358
-                }
-            ],
-            "country": "Argentina"
+          "leagueName": "null League A",
+          "key": "EurocupsUEFANationsLeagueLeagueA"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "ArmeniaPremierLeague"
-                },
-                {
-                    "leagueName": "First League",
-                    "key": "ArmeniaFirstLeague"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "ArmeniaCup",
-                    "id_gs": 2211
-                }
-            ],
-            "country": "Armenia"
+          "leagueName": "null League B",
+          "key": "EurocupsUEFANationsLeagueLeagueB"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Division di Honor",
-                    "key": "ArubaDivisiondiHonor"
-                }
-            ],
-            "country": "Aruba"
+          "leagueName": "null League C",
+          "key": "EurocupsUEFANationsLeagueLeagueC"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "A-League",
-                    "key": "AustraliaA-League"
-                },
-                {
-                    "leagueName": "Queensland",
-                    "key": "AustraliaNPLQueensland"
-                },
-                {
-                    "leagueName": "Capital Territory",
-                    "key": "AustraliaCapitalTerritory"
-                },
-                {
-                    "leagueName": "New South Wales",
-                    "key": "AustraliaNewSouthWales"
-                },
-                {
-                    "leagueName": "Northern Territory",
-                    "key": "AustraliaNorthern"
-                },
-                {
-                    "leagueName": "Brisbane",
-                    "key": "AustraliaBrisbane"
-                },
-                {
-                    "leagueName": "Northern NSW",
-                    "key": "AustraliaNorthernNSW"
-                },
-                {
-                    "leagueName": "South Australian",
-                    "key": "AustraliaSouthAustralian",
-                    "id_gs": 2672
-                }
-            ],
-            "country": "Australia"
+          "leagueName": "null League D",
+          "key": "EurocupsUEFANationsLeagueLeagueD"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Bundesliga",
-                    "key": "AustriaBundesliga"
-                },
-                {
-                    "leagueName": "1. Liga",
-                    "key": "Austria1-Liga"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "AustriaCup"
-                },
-                {
-                    "leagueName": "Regionalliga Mitte",
-                    "key": "AustriaRegionalligaMitte"
-                },
-                {
-                    "leagueName": "Regionalliga Ost",
-                    "key": "AustriaRegionalligaOst"
-                },
-                {
-                    "leagueName": "Regionalliga West",
-                    "key": "AustriaRegionalligaWest"
-                },
-                {
-                    "leagueName": "Landesliga Wien",
-                    "key": "AustriaLandesligaWien"
-                },
-                {
-                    "leagueName": "Landesliga Tirol",
-                    "key": "AustriaLandesligaTirol"
-                },
-                {
-                    "leagueName": "Landesliga Niederosterreich",
-                    "key": "AustriaLandesliga-Niederosterreich"
-                },
-                {
-                    "leagueName": "Landesliga Oberosterreich",
-                    "key": "AustriaLandesliga-Oberosterreich"
-                },
-                {
-                    "leagueName": "Landesliga Salzburg",
-                    "key": "AustriaLandesliga-Salzburg"
-                },
-                {
-                    "leagueName": "Landesliga Burgenland",
-                    "key": "AustriaLandesliga-Burgenland"
-                },
-                {
-                    "leagueName": "Landesliga Steiermark",
-                    "key": "AustriaLandesliga-Steiermark"
-                },
-                {
-                    "leagueName": "Landesliga Karnten",
-                    "key": "AustriaLandesliga-Karnten"
-                },
-                {
-                    "leagueName": "Landesliga Vorarlbergliga",
-                    "key": "AustriaVorarlbergliga"
-                }
-            ],
-            "country": "Austria"
+          "leagueName": "UEFA Super Cup",
+          "key": "EurocupsUEFASuperCup"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Premyer Liqa",
-                    "key": "AzerbaijanPremyerLiqasi"
-                },
-                {
-                    "leagueName": "Birinci Dasta",
-                    "key": "AzerbaijanBirinciDasta"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "AzerbaijanCup"
-                }
-            ],
-            "country": "Azerbaijan"
+          "leagueName": "European Championship",
+          "key": "EurocupsEuropeanChampionship"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "BahrainPremierLeague"
-                }
-            ],
-            "country": "Bahrain"
+          "leagueName": "EC Qualification",
+          "key": "EurocupsEuropaChampionshipQualification"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "BangladeshPremierLeague"
-                }
-            ],
-            "country": "Bangladesh"
+          "leagueName": "UEFA U19 Championship",
+          "key": "EurocupsUEFAU19Championship"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "BarbadosPremierLeague"
-                }
-            ],
-            "country": "Barbados"
+          "leagueName": "UEFA U21 Championship",
+          "key": "EurocupsUEFAU21Championship"
         },
         {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "BelarusPremierLeague"
-                },
-                {
-                    "leagueName": "1. Division",
-                    "key": "BelarusDivision1"
-                },
-                {
-                    "leagueName": "2. Division",
-                    "key": "BelarusDivision2"
-                }
-            ],
-            "country": "Belarus"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "First Division A",
-                    "key": "BelgiumProLeague"
-                },
-                {
-                    "leagueName": "First Division B",
-                    "key": "BelgiumSecondDivision"
-                },
-                {
-                    "leagueName": "First Amateur Division",
-                    "key": "BelgiumFirstAmateurDivision"
-                },
-                {
-                    "leagueName": "Second Amateur Division VFV A",
-                    "key": "BelgiumSecondAmateurDivisionVFVA"
-                },
-                {
-                    "leagueName": "Second Amateur Division VFV B",
-                    "key": "BelgiumSecondAmateurDivisionVFVB"
-                },
-                {
-                    "leagueName": "Second Amateur Division ACFF",
-                    "key": "BelgiumSecondAmateurDivisionACFF"
-                },
-                {
-                    "leagueName": "Third Amateur Division VFV A",
-                    "key": "BelgiumThirdAmateurDivisionVFVA"
-                },
-                {
-                    "leagueName": "Third Amateur Division VFV B",
-                    "key": "BelgiumThirdAmateurDivisionVFVB"
-                },
-                {
-                    "leagueName": "Third Amateur Division ACFF A",
-                    "key": "BelgiumThirdAmateurDivisionACFFA"
-                },
-                {
-                    "leagueName": "Third Amateur Division ACFF B",
-                    "key": "BelgiumThirdAmateurDivisionACFFB"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "BelgiumCup"
-                },
-                {
-                    "leagueName": "Super Cup",
-                    "key": "BelgiumSuperCup"
-                },
-                {
-                    "leagueName": "Play-offs 1/2",
-                    "key": "BelgiumPlayoffs12"
-                },
-                {
-                    "leagueName": "Play-offs 2/3",
-                    "key": "BelgiumPlayoffs23"
-                },
-                {
-                    "leagueName": "Provincial Antwerpen",
-                    "key": "BelgiumProvincialAntwerpen"
-                },
-                {
-                    "leagueName": "Provincial Brabant",
-                    "key": "BelgiumProvincialBrabant"
-                },
-                {
-                    "leagueName": "Provincial Hainaut",
-                    "key": "BelgiumProvincialHainaut"
-                },
-                {
-                    "leagueName": "Provincial Liege",
-                    "key": "BelgiumProvincialLiege"
-                },
-                {
-                    "leagueName": "Provincial Limburg",
-                    "key": "BelgiumProvincialLimburg"
-                },
-                {
-                    "leagueName": "Provincial Luxembourg",
-                    "key": "BelgiumProvincialLuxembourg"
-                },
-                {
-                    "leagueName": "Provincial Namur",
-                    "key": "BelgiumProvincialNamur"
-                },
-                {
-                    "leagueName": "Provincial Oost Vlaanderen",
-                    "key": "BelgiumProvincialOostVlaanderen"
-                },
-                {
-                    "leagueName": "Provincial West Vlaanderen",
-                    "key": "BelgiumProvincialWestVlaanderen"
-                }
-            ],
-            "country": "Belgium"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "BelizePremierLeague"
-                }
-            ],
-            "country": "Belize"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "BermudaPremierLeague"
-                }
-            ],
-            "country": "Bermuda"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Thimphu League",
-                    "key": "BhutanA-Division"
-                }
-            ],
-            "country": "Bhutan"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "LFPB",
-                    "key": "BoliviaPrimeraDivision"
-                }
-            ],
-            "country": "Bolivia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premijer Liga",
-                    "key": "BosniaandHerzegovinaPremierLiga"
-                },
-                {
-                    "leagueName": "1st League RS",
-                    "key": "BosniaandHerzegovina1stLeagueFBiH"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "BosniaandHerzegovinaCup"
-                }
-            ],
-            "country": "Bosnia and Herzegovina"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "BotswanaPremierLeague"
-                }
-            ],
-            "country": "Botswana"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Serie A",
-                    "key": "BrazilSerieA"
-                },
-                {
-                    "leagueName": "Serie B",
-                    "key": "BrazilSerieB",
-                    "id_gs": 1117
-                },
-                {
-                    "leagueName": "Serie C",
-                    "key": "BrazilSerieC"
-                },
-                {
-                    "leagueName": "Serie D",
-                    "key": "BrazilSerieD"
-                },
-                {
-                    "leagueName": "Copa do Brasil",
-                    "key": "BrazilCopadoBrasil"
-                },
-                {
-                    "leagueName": "Carioca 1",
-                    "key": "BrazilCarioca1"
-                },
-                {
-                    "leagueName": "Carioca 2",
-                    "key": "BrazilCarioca2"
-                },
-                {
-                    "leagueName": "Copa do Nordeste Campeonato Nordeste",
-                    "key": "BrazilCampeonatoNordeste"
-                },
-                {
-                    "leagueName": "Paulista A1",
-                    "key": "BrazilPaulistaA1"
-                },
-                {
-                    "leagueName": "Paulista A2",
-                    "key": "BrazilPaulistaA2"
-                },
-                {
-                    "leagueName": "Paulista A3",
-                    "key": "BrazilPaulistaA3"
-                },
-                {
-                    "leagueName": "Gaúcho 1",
-                    "key": "BrazilGaucho1"
-                },
-                {
-                    "leagueName": "Gaúcho 2",
-                    "key": "BrazilGaucho2"
-                },
-                {
-                    "leagueName": "Mineiro 1",
-                    "key": "BrazilMineiro1"
-                },
-                {
-                    "leagueName": "Mineiro 2",
-                    "key": "BrazilMineiro2"
-                },
-                {
-                    "leagueName": "Baiano 1",
-                    "key": "BrazilBaiano1"
-                },
-                {
-                    "leagueName": "Baiano 2",
-                    "key": "BrazilBaiano2"
-                },
-                {
-                    "leagueName": "Paranaense 1",
-                    "key": "BrazilParanaense1"
-                },
-                {
-                    "leagueName": "Paranaense 2",
-                    "key": "BrazilParanaense2"
-                },
-                {
-                    "leagueName": "Pernambucano 1",
-                    "key": "BrazilPernambucano"
-                },
-                {
-                    "leagueName": "Catarinense 1",
-                    "key": "BrazilCatarinense"
-                },
-                {
-                    "leagueName": "Goiano 1",
-                    "key": "BrazilGoiano"
-                },
-                {
-                    "leagueName": "Cearense 1",
-                    "key": "BrazilCearense1"
-                },
-                {
-                    "leagueName": "Cearense 2",
-                    "key": "BrazilCearense2"
-                },
-                {
-                    "leagueName": "Paraense",
-                    "key": "BrazilParaense"
-                },
-                {
-                    "leagueName": "Brasiliense",
-                    "key": "BrazilBrasiliense"
-                },
-                {
-                    "leagueName": "Paraibano",
-                    "key": "BrazilParaibano"
-                },
-                {
-                    "leagueName": "Alagoano",
-                    "key": "BrazilAlagoano"
-                },
-                {
-                    "leagueName": "Potiguar",
-                    "key": "BrazilPotiguar"
-                },
-                {
-                    "leagueName": "Sergipano",
-                    "key": "BrazilSergipano"
-                },
-                {
-                    "leagueName": "Amazonense",
-                    "key": "BrazilAmazonense"
-                },
-                {
-                    "leagueName": "Matogrossense",
-                    "key": "BrazilMatogrossense"
-                },
-                {
-                    "leagueName": "Sul-Matogrossense",
-                    "key": "BrazilSulMatogrossense"
-                },
-                {
-                    "leagueName": "Capixaba",
-                    "key": "BrazilCapixaba"
-                },
-                {
-                    "leagueName": "Maranhense",
-                    "key": "BrazilMaranhense"
-                },
-                {
-                    "leagueName": "Piauiense",
-                    "key": "BrazilPiauiense"
-                },
-                {
-                    "leagueName": "Acreano",
-                    "key": "BrazilAcreano"
-                },
-                {
-                    "leagueName": "Rondoniense",
-                    "key": "BrazilRondoniense"
-                },
-                {
-                    "leagueName": "Tocantinense",
-                    "key": "BrazilTocantinense"
-                },
-                {
-                    "leagueName": "Amapaense",
-                    "key": "BrazilAmapaense"
-                },
-                {
-                    "leagueName": "Roraimense",
-                    "key": "BrazilRoraimense"
-                }
-            ],
-            "country": "Brazil"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Super League",
-                    "key": "BruneiDarussalamSuperLeague"
-                }
-            ],
-            "country": "Brunei Darussalam"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "First League",
-                    "key": "BulgariaAPFG"
-                },
-                {
-                    "leagueName": "Second League Zapad",
-                    "key": "BulgariaBPFGWest"
-                },
-                {
-                    "leagueName": "Second League Iztok",
-                    "key": "BulgariaBPFGEast"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "BulgariaCup"
-                },
-                {
-                    "leagueName": "Third League Severoiztok",
-                    "key": "BulgariaVAFGNortheast"
-                },
-                {
-                    "leagueName": "Third League Severozapadna",
-                    "key": "BulgariaVAFGNorthwest"
-                },
-                {
-                    "leagueName": "Third League Yugoiztok",
-                    "key": "BulgariaVAFGSoutheast"
-                },
-                {
-                    "leagueName": "Third League Yugozapad",
-                    "key": "BulgariaVAFGSouthwest"
-                }
-            ],
-            "country": "Bulgaria"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "1ère Division",
-                    "key": "BurkinaFaso1stDivision"
-                }
-            ],
-            "country": "Burkina Faso"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "C-League",
-                    "key": "CambodiaC-League"
-                }
-            ],
-            "country": "Cambodia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Elite ONE",
-                    "key": "CameroonEliteONE"
-                }
-            ],
-            "country": "Cameroon"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Canadian Premier League",
-                    "key": "CanadaCanadianPremierLeague"
-                },
-                {
-                    "leagueName": "Canadian Soccer League",
-                    "key": "CanadaCanadianSoccerLeague"
-                },
-                {
-                    "leagueName": "PCSL",
-                    "key": "CanadaPCSL"
-                }
-            ],
-            "country": "Canada"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera División",
-                    "key": "ChilePrimeraApertura"
-                },
-                {
-                    "leagueName": "Primera B",
-                    "key": "ChilePrimeraB"
-                },
-                {
-                    "leagueName": "Copa Chile",
-                    "key": "ChileCopaChile"
-                }
-            ],
-            "country": "Chile"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "CSL",
-                    "key": "ChinaCSL"
-                },
-                {
-                    "leagueName": "China League One",
-                    "key": "ChinaLeagueOne"
-                },
-                {
-                    "leagueName": "FA Cup",
-                    "key": "ChinaFACup"
-                }
-            ],
-            "country": "China"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera A",
-                    "key": "ColombiaPrimeraAClausura"
-                },
-                {
-                    "leagueName": "Primera B",
-                    "key": "ColombiaPrimeraB"
-                },
-                {
-                    "leagueName": "Copa Colombia",
-                    "key": "ColombiaCopaColombia"
-                }
-            ],
-            "country": "Colombia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Super Ligue",
-                    "key": "CongoKinshasaSuperLigue"
-                }
-            ],
-            "country": "Congo Kinshasa"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera División",
-                    "key": "CostaRicaPrimeraDivision"
-                },
-                {
-                    "leagueName": "Liga de Ascenso",
-                    "key": "CostaRicaLigadeAscenso"
-                }
-            ],
-            "country": "Costa Rica"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "1. HNL",
-                    "key": "Croatia1HNL"
-                },
-                {
-                    "leagueName": "2. HNL",
-                    "key": "Croatia2HNL"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "CroatiaHRNogometniCup"
-                }
-            ],
-            "country": "Croatia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "1. Division",
-                    "key": "Cyprus1.Division"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "CyprusCup"
-                }
-            ],
-            "country": "Cyprus"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Czech Liga",
-                    "key": "CzechRepublicCzechLiga"
-                },
-                {
-                    "leagueName": "FNL",
-                    "key": "CzechRepublicFNL"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "CzechRepublicCup"
-                },
-                {
-                    "leagueName": "Super Cup",
-                    "key": "CzechRepublicSuperCup"
-                },
-                {
-                    "leagueName": "3. liga CFL",
-                    "key": "CzechRepublicLiga3CFL"
-                },
-                {
-                    "leagueName": "3. liga MSFL",
-                    "key": "CzechRepublicLiga3MSFL"
-                },
-                {
-                    "leagueName": "3. Division A",
-                    "key": "CzechRepublicLiga4DivisionA"
-                },
-                {
-                    "leagueName": "3. Division B",
-                    "key": "CzechRepublicLiga4DivisionB"
-                },
-                {
-                    "leagueName": "3. Division C",
-                    "key": "CzechRepublicLiga4DivisionC"
-                },
-                {
-                    "leagueName": "3. Division D",
-                    "key": "CzechRepublicLiga4DivisionD"
-                },
-                {
-                    "leagueName": "3. Division E",
-                    "key": "CzechRepublicLiga4DivisionE"
-                }
-            ],
-            "country": "Czech Republic"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Superliga",
-                    "key": "DenmarkSuperliga"
-                },
-                {
-                    "leagueName": "1st Division",
-                    "key": "Denmark1stDivision"
-                },
-                {
-                    "leagueName": "DBU Pokalen",
-                    "key": "DenmarkDBUPokalen"
-                },
-                {
-                    "leagueName": "2nd Division Øst",
-                    "key": "Denmark2ndDivisionEast"
-                },
-                {
-                    "leagueName": "2nd Division Vest",
-                    "key": "Denmark2ndDivisionWest"
-                },
-                {
-                    "leagueName": "Denmark Series Gruppe 1",
-                    "key": "DenmarkDenmarkSeriesGroup1"
-                },
-                {
-                    "leagueName": "Denmark Series Gruppe 2",
-                    "key": "DenmarkDenmarkSeriesGroup2"
-                },
-                {
-                    "leagueName": "Denmark Series Gruppe 3",
-                    "key": "DenmarkDenmarkSeriesGroup3"
-                }
-            ],
-            "country": "Denmark"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera A Apertura",
-                    "key": "EcuadorPrimeraApertura"
-                },
-                {
-                    "leagueName": "Primera A Clausura",
-                    "key": "EcuadorPrimeraClausura"
-                }
-            ],
-            "country": "Ecuador"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "EgyptPremierLeague"
-                }
-            ],
-            "country": "Egypt"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera Division",
-                    "key": "ElsalvadorPrimeraDivision"
-                }
-            ],
-            "country": "El salvador"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "EnglandPremierLeague"
-                },
-                {
-                    "leagueName": "Championship",
-                    "key": "EnglandChampionship"
-                },
-                {
-                    "leagueName": "FA Cup",
-                    "key": "EnglandFACup"
-                },
-                {
-                    "leagueName": "League Cup",
-                    "key": "EnglandCarlingCup"
-                },
-                {
-                    "leagueName": "Community Shield",
-                    "key": "EnglandCommunityShield"
-                },
-                {
-                    "leagueName": "FA Trophy",
-                    "key": "EnglandFATrophy"
-                },
-                {
-                    "leagueName": "EFL Trophy",
-                    "key": "EnglandFLTrophy"
-                },
-                {
-                    "leagueName": "League One",
-                    "key": "EnglandLeagueOne"
-                },
-                {
-                    "leagueName": "League Two",
-                    "key": "EnglandLeagueTwo"
-                },
-                {
-                    "leagueName": "National League",
-                    "key": "EnglandConferenceNational"
-                },
-                {
-                    "leagueName": "National League N / S North",
-                    "key": "EnglandConferenceNorth"
-                },
-                {
-                    "leagueName": "National League N / S South",
-                    "key": "EnglandConferenceSouth"
-                },
-                {
-                    "leagueName": "Non League Premier Northern",
-                    "key": "EnglandNonLeaguePremierNorthern"
-                },
-                {
-                    "leagueName": "Non League Premier Southern",
-                    "key": "EnglandNonLeaguePremierSouthern"
-                },
-                {
-                    "leagueName": "Non League Premier Isthmian",
-                    "key": "EnglandNonLeaguePremierIsthmian"
-                },
-                {
-                    "leagueName": "Non League Div One Isthmian North",
-                    "key": "EnglandNonLeagueDivOneIsthmianNorth"
-                },
-                {
-                    "leagueName": "Non League Div One Isthmian South",
-                    "key": "EnglandNonLeagueDivOneIsthmianSouth"
-                },
-                {
-                    "leagueName": "Non League Div One Northern North",
-                    "key": "EnglandNonLeagueDivOneNorthernNorth"
-                },
-                {
-                    "leagueName": "Non League Div One Northern South",
-                    "key": "EnglandNonLeagueDivOneNorthernSouth"
-                },
-                {
-                    "leagueName": "Non League Div One Southern Central",
-                    "key": "EnglandNonLeagueDivOneSouthernCentral"
-                },
-                {
-                    "leagueName": "Non League Div One Southern SW",
-                    "key": "EnglandNonLeagueDivOneSouthernSW"
-                }
-            ],
-            "country": "England"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Meistriliiga",
-                    "key": "EstoniaMeistriliiga"
-                },
-                {
-                    "leagueName": "Esiliiga A",
-                    "key": "EstoniaEsiliigaA"
-                }
-            ],
-            "country": "Estonia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "EthiopiaPremierLeague"
-                }
-            ],
-            "country": "Ethiopia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "UEFA Europa Conference League",
-                    "key": "EurocupsUEFAEuropaConferenceLeague"
-                },
-                {
-                    "leagueName": "UEFA Champions League",
-                    "key": "EurocupsUEFAChampionsLeague"
-                },
-                {
-                    "leagueName": "UEFA Europa League",
-                    "key": "EurocupsUEFAEuropaLeague"
-                },
-                {
-                    "leagueName": "null Semi-finals,Final,3rd Place Final",
-                    "key": "EurocupsUEFANationsLeague"
-                },
-                {
-                    "leagueName": "null League A",
-                    "key": "EurocupsUEFANationsLeagueLeagueA"
-                },
-                {
-                    "leagueName": "null League B",
-                    "key": "EurocupsUEFANationsLeagueLeagueB"
-                },
-                {
-                    "leagueName": "null League C",
-                    "key": "EurocupsUEFANationsLeagueLeagueC"
-                },
-                {
-                    "leagueName": "null League D",
-                    "key": "EurocupsUEFANationsLeagueLeagueD"
-                },
-                {
-                    "leagueName": "UEFA Super Cup",
-                    "key": "EurocupsUEFASuperCup"
-                },
-                {
-                    "leagueName": "European Championship",
-                    "key": "EurocupsEuropeanChampionship"
-                },
-                {
-                    "leagueName": "EC Qualification",
-                    "key": "EurocupsEuropaChampionshipQualification"
-                },
-                {
-                    "leagueName": "UEFA U19 Championship",
-                    "key": "EurocupsUEFAU19Championship"
-                },
-                {
-                    "leagueName": "UEFA U21 Championship",
-                    "key": "EurocupsUEFAU21Championship"
-                },
-                {
-                    "leagueName": "UEFA Youth League",
-                    "key": "EurocupsUEFAYouthLeague"
-                }
-            ],
-            "country": "Eurocups"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Meistaradeildin",
-                    "key": "FaroeislandsMeistaradeildin"
-                },
-                {
-                    "leagueName": "1. Deild",
-                    "key": "Faroeislands1Deild"
-                }
-            ],
-            "country": "Faroe islands"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "National Football League",
-                    "key": "FijiNationalFootballLeague"
-                }
-            ],
-            "country": "Fiji"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Veikkausliiga",
-                    "key": "FinlandVeikkausliiga"
-                },
-                {
-                    "leagueName": "Ykkönen",
-                    "key": "FinlandYkkonen"
-                },
-                {
-                    "leagueName": "Suomen Cup",
-                    "key": "FinlandSuomenCup"
-                },
-                {
-                    "leagueName": "Kakkonen Lohko Ita",
-                    "key": "FinlandKakkonenLohkoA"
-                },
-                {
-                    "leagueName": "Kakkonen Lohko Pohjoinen",
-                    "key": "FinlandKakkonenLohkoB"
-                },
-                {
-                    "leagueName": "Kakkonen Lohko Etela",
-                    "key": "FinlandKakkonenLohkoC"
-                },
-                {
-                    "leagueName": "Kakkonen Lohko Lansi",
-                    "key": "FinlandKakkonenLohkoD"
-                }
-            ],
-            "country": "Finland"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Ligue 1",
-                    "key": "FranceLigue1"
-                },
-                {
-                    "leagueName": "Ligue 2",
-                    "key": "FranceLigue2"
-                },
-                {
-                    "leagueName": "National 1",
-                    "key": "FranceNational"
-                },
-                {
-                    "leagueName": "National 2 Group A",
-                    "key": "FranceCFA:GroupA"
-                },
-                {
-                    "leagueName": "National 2 Group B",
-                    "key": "FranceCFA:GroupB"
-                },
-                {
-                    "leagueName": "National 2 Group C",
-                    "key": "FranceCFA:GroupC"
-                },
-                {
-                    "leagueName": "National 2 Group D",
-                    "key": "FranceCFA:GroupD"
-                },
-                {
-                    "leagueName": "National 3 Group A",
-                    "key": "FranceCFA2:GroupA"
-                },
-                {
-                    "leagueName": "National 3 Group B",
-                    "key": "FranceCFA2:GroupB"
-                },
-                {
-                    "leagueName": "National 3 Group C",
-                    "key": "FranceCFA2:GroupC"
-                },
-                {
-                    "leagueName": "National 3 Group D",
-                    "key": "FranceCFA2:GroupD"
-                },
-                {
-                    "leagueName": "National 3 Group E",
-                    "key": "FranceCFA2:GroupE"
-                },
-                {
-                    "leagueName": "National 3 Group F",
-                    "key": "FranceCFA2:GroupF"
-                },
-                {
-                    "leagueName": "National 3 Group G",
-                    "key": "FranceCFA2:GroupG"
-                },
-                {
-                    "leagueName": "National 3 Group H",
-                    "key": "FranceCFA2:GroupH"
-                },
-                {
-                    "leagueName": "National 3 Group I",
-                    "key": "FranceCFA2:GroupI"
-                },
-                {
-                    "leagueName": "National 3 Group J",
-                    "key": "FranceCFA2:GroupJ"
-                },
-                {
-                    "leagueName": "National 3 Group K",
-                    "key": "FranceCFA2:GroupK"
-                },
-                {
-                    "leagueName": "National 3 Group L",
-                    "key": "FranceCFA2:GroupL"
-                },
-                {
-                    "leagueName": "National 3 Group M",
-                    "key": "FranceCFA2:GroupM"
-                },
-                {
-                    "leagueName": "Coupe de France",
-                    "key": "FranceCoupedeFrance"
-                },
-                {
-                    "leagueName": "Coupe de la Ligue",
-                    "key": "FranceCoupedelaLigue"
-                },
-                {
-                    "leagueName": "Super Cup",
-                    "key": "FranceSuperCup"
-                }
-            ],
-            "country": "France"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Championnat D1",
-                    "key": "GabonPremierLeague"
-                }
-            ],
-            "country": "Gabon"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Erovnuli Liga",
-                    "key": "GeorgiaUmaglesiLiga"
-                },
-                {
-                    "leagueName": "Erovnuli Liga 2",
-                    "key": "GeorgiaPirveliLiga"
-                }
-            ],
-            "country": "Georgia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Bundesliga",
-                    "key": "GermanyBundesliga"
-                },
-                {
-                    "leagueName": "2. Bundesliga",
-                    "key": "GermanyBundesliga2"
-                },
-                {
-                    "leagueName": "DFB Pokal",
-                    "key": "GermanyCup"
-                },
-                {
-                    "leagueName": "Super Cup",
-                    "key": "GermanySuperCup"
-                },
-                {
-                    "leagueName": "3. Liga",
-                    "key": "Germany3Liga"
-                },
-                {
-                    "leagueName": "Play-offs 1/2",
-                    "key": "GermanyPlayoffs12"
-                },
-                {
-                    "leagueName": "Play-offs 2/3",
-                    "key": "GermanyPlayoffs23"
-                },
-                {
-                    "leagueName": "Regionalliga Nordost",
-                    "key": "GermanyRegionalligaNordost"
-                },
-                {
-                    "leagueName": "Regionalliga Nord",
-                    "key": "GermanyRegionalligaNord"
-                },
-                {
-                    "leagueName": "Regionalliga Sudwest",
-                    "key": "GermanyRegionalligaSudwest"
-                },
-                {
-                    "leagueName": "Regionalliga West",
-                    "key": "GermanyRegionalligaWest"
-                },
-                {
-                    "leagueName": "Regionalliga Bayern",
-                    "key": "GermanyRegionalligaBayern"
-                },
-                {
-                    "leagueName": "Oberliga Mittelrhein",
-                    "key": "GermanyOberligaMittelrhein"
-                },
-                {
-                    "leagueName": "Oberliga Westfalen",
-                    "key": "GermanyOberligaWestfalen"
-                },
-                {
-                    "leagueName": "Oberliga Nordost-Sud",
-                    "key": "GermanyOberligaNordost-Sud"
-                },
-                {
-                    "leagueName": "Oberliga Baden-Wurttemberg",
-                    "key": "GermanyOberligaBaden-Wurttemberg"
-                },
-                {
-                    "leagueName": "Oberliga Bremen",
-                    "key": "GermanyOberligaBremen"
-                },
-                {
-                    "leagueName": "Oberliga Nordost-Nord",
-                    "key": "GermanyOberligaNordost-Nord"
-                },
-                {
-                    "leagueName": "Oberliga Hamburg",
-                    "key": "GermanyOberligaHamburg"
-                },
-                {
-                    "leagueName": "Oberliga Niedersachsen",
-                    "key": "GermanyOberligaNiedersachsen"
-                },
-                {
-                    "leagueName": "Oberliga Schleswig-Holstein",
-                    "key": "GermanyOberligaSchleswig-Holstein"
-                },
-                {
-                    "leagueName": "Oberliga Hessen",
-                    "key": "GermanyOberligaHessen"
-                },
-                {
-                    "leagueName": "Oberliga Niederrhein",
-                    "key": "GermanyOberligaNiederrhein"
-                },
-                {
-                    "leagueName": "Oberliga Rheinland-Pfalz Saar",
-                    "key": "GermanyOberligaRheinland-PfalzSaar"
-                },
-                {
-                    "leagueName": "Oberliga Bayern Nord",
-                    "key": "GermanyOberligaBayernNord"
-                },
-                {
-                    "leagueName": "Oberliga Bayern Sud",
-                    "key": "GermanyOberligaBayernSud"
-                }
-            ],
-            "country": "Germany"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "GhanaPremierLeague"
-                }
-            ],
-            "country": "Ghana"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Super League",
-                    "key": "GreeceSuperLeague"
-                },
-                {
-                    "leagueName": "SuperLeague 2",
-                    "key": "GreeceSuperLeague2"
-                },
-                {
-                    "leagueName": "Football League",
-                    "key": "GreeceFootballLeague"
-                },
-                {
-                    "leagueName": "Gamma Ethniki Group A",
-                    "key": "GreeceGammaEthnikigroupA"
-                },
-                {
-                    "leagueName": "Gamma Ethniki Group B",
-                    "key": "GreeceGammaEthnikigroupB"
-                },
-                {
-                    "leagueName": "Gamma Ethniki Group C",
-                    "key": "GreeceGammaEthnikigroupC"
-                },
-                {
-                    "leagueName": "Gamma Ethniki Group D",
-                    "key": "GreeceGammaEthnikigroupD"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "GreeceCup"
-                }
-            ],
-            "country": "Greece"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier Division",
-                    "key": "GrenadaPremierDivision"
-                }
-            ],
-            "country": "Grenada"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Division d'Honneur",
-                    "key": "GuadeloupeNationalFootballLeague"
-                }
-            ],
-            "country": "Guadeloupe"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Liga Nacional",
-                    "key": "GuatemalaLigaNacional"
-                },
-                {
-                    "leagueName": "Primera Division",
-                    "key": "GuatemalaPrimeraDivision"
-                }
-            ],
-            "country": "Guatemala"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Championnat National",
-                    "key": "HaitiChampionnatNational"
-                }
-            ],
-            "country": "Haiti"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Liga Nacional",
-                    "key": "HondurasLigaNacional"
-                }
-            ],
-            "country": "Honduras"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "HongKongPremierleague"
-                },
-                {
-                    "leagueName": "HKFA 1st Division",
-                    "key": "HongKongFirstDivision"
-                }
-            ],
-            "country": "Hong Kong"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "NB I",
-                    "key": "HungaryNBI"
-                },
-                {
-                    "leagueName": "Magyar Kupa",
-                    "key": "HungaryMagyarKupa"
-                },
-                {
-                    "leagueName": "NB II Kelet",
-                    "key": "HungaryNBIIEast"
-                },
-                {
-                    "leagueName": "NB II Nyugati",
-                    "key": "HungaryNBIIWest"
-                },
-                {
-                    "leagueName": "NB III Alfold",
-                    "key": "HungaryNBIIIAlfold"
-                },
-                {
-                    "leagueName": "NB III Bakony",
-                    "key": "HungaryNBIIIBakony"
-                },
-                {
-                    "leagueName": "NB III Drava",
-                    "key": "HungaryNBIIIDrava"
-                },
-                {
-                    "leagueName": "NB III Duna",
-                    "key": "HungaryNBIIIDuna"
-                },
-                {
-                    "leagueName": "NB III Matra",
-                    "key": "HungaryNBIIIMatra"
-                },
-                {
-                    "leagueName": "NB III Tisza",
-                    "key": "HungaryNBIIITisza"
-                }
-            ],
-            "country": "Hungary"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Úrvalsdeild",
-                    "key": "IcelandUrvalsdeild"
-                },
-                {
-                    "leagueName": "1. Deild",
-                    "key": "Iceland1Deild"
-                },
-                {
-                    "leagueName": "2. Deild",
-                    "key": "Iceland2Deild"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "IcelandCup"
-                },
-                {
-                    "leagueName": "CAF Confederation Cup",
-                    "key": "IcelandLeagueCup"
-                }
-            ],
-            "country": "Iceland"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Indian Super League",
-                    "key": "IndiaIndianSuperLeague"
-                },
-                {
-                    "leagueName": "I-League",
-                    "key": "IndiaILeague"
-                },
-                {
-                    "leagueName": "Santosh Trophy",
-                    "key": "IndiaSanthoshTrophy"
-                }
-            ],
-            "country": "India"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Liga 1",
-                    "key": "IndonesiaSuperLiga"
-                },
-                {
-                    "leagueName": "Piala Indonesia",
-                    "key": "IndonesiaPialaIndonesia"
-                },
-                {
-                    "leagueName": "Liga 2",
-                    "key": "IndonesiaISL",
-                    "id_gs": 1749
-                }
-            ],
-            "country": "Indonesia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Copa Libertadores",
-                    "key": "InternationalCupsLibertadores"
-                },
-                {
-                    "leagueName": "Asian Cup",
-                    "key": "InternationalCupsAsianCup"
-                },
-                {
-                    "leagueName": "Asian Cup Qualification",
-                    "key": "InternationalCupsAsianCupQualifications",
-                    "id_gs": 1779
-                },
-                {
-                    "leagueName": "Pacific Games",
-                    "key": "InternationalCupsPacificGames"
-                },
-                {
-                    "leagueName": "Copa America",
-                    "key": "InternationalCupsCopaAmerica"
-                },
-                {
-                    "leagueName": "Africa Cup of Nations",
-                    "key": "InternationalCupsAfricaCupOfNations"
-                },
-                {
-                    "leagueName": "Africa Cup of Nations Qualification",
-                    "key": "InternationalCupsAfricaCupOfNationsQualifications"
-                },
-                {
-                    "leagueName": "AFC Cup",
-                    "key": "InternationalCupsAFCCup"
-                },
-                {
-                    "leagueName": "AFC Champions League",
-                    "key": "InternationalCupsAFCChampionship"
-                },
-                {
-                    "leagueName": "AFC Challenge Cup",
-                    "key": "InternationalCupsAFCChallengeCup"
-                },
-                {
-                    "leagueName": "CAF Champions League",
-                    "key": "InternationalCupsCAFChampionsLeague"
-                },
-                {
-                    "leagueName": "CAF Confederation Cup",
-                    "key": "InternationalCupsCAFConfederationsCup"
-                },
-                {
-                    "leagueName": "Confederations Cup",
-                    "key": "InternationalCupsConfederationsCup"
-                },
-                {
-                    "leagueName": "CONCACAF Gold Cup",
-                    "key": "InternationalCupsConcacafGoldCup"
-                },
-                {
-                    "leagueName": "CONCACAF Champions League",
-                    "key": "InternationalCupsConcacafLeague"
-                },
-                {
-                    "leagueName": "Caribbean Cup",
-                    "key": "InternationalCupsCaribbeanCup"
-                },
-                {
-                    "leagueName": "AFF Championship",
-                    "key": "InternationalCupsASEANCup"
-                },
-                {
-                    "leagueName": "International Champions Cup",
-                    "key": "InternationalCupsInternationalChampionsCup"
-                },
-                {
-                    "leagueName": "Copa Sudamericana",
-                    "key": "InternationalCupsCopaSudAmericana"
-                },
-                {
-                    "leagueName": "Copa Centroamericana",
-                    "key": "InternationalCupsCopaCentroAmericana"
-                },
-                {
-                    "leagueName": "Friendlies",
-                    "key": "InternationalCupsFriendlies"
-                },
-                {
-                    "leagueName": "OFC Champions League",
-                    "key": "InternationalCupsOFCChampionsLeague"
-                },
-                {
-                    "leagueName": "Olympics",
-                    "key": "InternationalCupsOlympics"
-                }
-            ],
-            "country": "International Cups"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Persian Gulf Pro League",
-                    "key": "IranPersianGulfCup"
-                },
-                {
-                    "leagueName": "Azadegan League",
-                    "key": "IranAzadeganLeague"
-                },
-                {
-                    "leagueName": "Hazfi Cup",
-                    "key": "IranHazfiCup"
-                }
-            ],
-            "country": "Iran"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Iraqi League",
-                    "key": "IraqIraqiLeague"
-                }
-            ],
-            "country": "Iraq"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier Division",
-                    "key": "IrelandPremierLeague"
-                },
-                {
-                    "leagueName": "First Division",
-                    "key": "Ireland1stDivision"
-                },
-                {
-                    "leagueName": "FAI Cup",
-                    "key": "IrelandFAICup"
-                }
-            ],
-            "country": "Ireland"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Ligat ha'Al",
-                    "key": "IsraelLigathaAl"
-                },
-                {
-                    "leagueName": "Liga Leumit",
-                    "key": "IsraelLigaLeumit"
-                },
-                {
-                    "leagueName": "State Cup",
-                    "key": "IsraelStateCup"
-                },
-                {
-                    "leagueName": "Toto Cup Ligat Al",
-                    "key": "IsraelTotoCupLigatAl"
-                }
-            ],
-            "country": "Israel"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Serie A",
-                    "key": "ItalySerieA"
-                },
-                {
-                    "leagueName": "Serie B",
-                    "key": "ItalySerieB"
-                },
-                {
-                    "leagueName": "Serie C Girone A",
-                    "key": "ItalyLegaPro1-GironeA"
-                },
-                {
-                    "leagueName": "Serie C Girone B",
-                    "key": "ItalyLegaPro1-GironeB"
-                },
-                {
-                    "leagueName": "Serie C Girone C",
-                    "key": "ItalyLegaPro1-GironeC"
-                },
-                {
-                    "leagueName": "Serie D Girone A",
-                    "key": "ItalySerieD-GironeA"
-                },
-                {
-                    "leagueName": "Serie D Girone B",
-                    "key": "ItalySerieD-GironeB"
-                },
-                {
-                    "leagueName": "Serie D Girone C",
-                    "key": "ItalySerieD-GironeC"
-                },
-                {
-                    "leagueName": "Serie D Girone D",
-                    "key": "ItalySerieD-GironeD"
-                },
-                {
-                    "leagueName": "Serie D Girone E",
-                    "key": "ItalySerieD-GironeE"
-                },
-                {
-                    "leagueName": "Serie D Girone F",
-                    "key": "ItalySerieD-GironeF"
-                },
-                {
-                    "leagueName": "Serie D Girone G",
-                    "key": "ItalySerieD-GironeG"
-                },
-                {
-                    "leagueName": "Serie D Girone H",
-                    "key": "ItalySerieD-GironeH"
-                },
-                {
-                    "leagueName": "Serie D Girone I",
-                    "key": "ItalySerieD-GironeI"
-                },
-                {
-                    "leagueName": "Coppa Italia",
-                    "key": "ItalyCoppaItalia"
-                },
-                {
-                    "leagueName": "Super Cup",
-                    "key": "ItalySupercup"
-                }
-            ],
-            "country": "Italy"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Ligue 1",
-                    "key": "IvoryCoastLigue1"
-                }
-            ],
-            "country": "Ivory Coast"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "JamaicaPremierLeague"
-                }
-            ],
-            "country": "Jamaica"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "J1 League",
-                    "key": "JapanJ1League"
-                },
-                {
-                    "leagueName": "J2 League",
-                    "key": "JapanJ2League"
-                },
-                {
-                    "leagueName": "Emperor Cup",
-                    "key": "JapanCup"
-                },
-                {
-                    "leagueName": "J-League Cup",
-                    "key": "JapanNabiscoCup"
-                }
-            ],
-            "country": "Japan"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "League",
-                    "key": "JordanLeague"
-                }
-            ],
-            "country": "Jordan"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "KazakhstanPremierLeague"
-                },
-                {
-                    "leagueName": "1. Division",
-                    "key": "Kazakhstan1stDivision"
-                }
-            ],
-            "country": "Kazakhstan"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "KenyaLeague"
-                }
-            ],
-            "country": "Kenya"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "KuwaitPremierLeague"
-                },
-                {
-                    "leagueName": "Division 1",
-                    "key": "KuwaitDivision1"
-                }
-            ],
-            "country": "Kuwait"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Top Liga",
-                    "key": "KyrgyzstanTopLiga"
-                }
-            ],
-            "country": "Kyrgyzstan"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Virsliga",
-                    "key": "LatviaVirsliga"
-                },
-                {
-                    "leagueName": "1. Liga",
-                    "key": "Latvia1Liga"
-                }
-            ],
-            "country": "Latvia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "LebanonPremierLeague"
-                }
-            ],
-            "country": "Lebanon"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "LibyaPremierLeague"
-                }
-            ],
-            "country": "Libya"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "A Lyga",
-                    "key": "LithuaniaALyga"
-                },
-                {
-                    "leagueName": "1 Lyga",
-                    "key": "Lithuania1Lyga"
-                }
-            ],
-            "country": "Lithuania"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "LuxembourgNationalDivision"
-                }
-            ],
-            "country": "Luxembourg"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "First League",
-                    "key": "MacedoniaFirstLeague"
-                },
-                {
-                    "leagueName": "Second League",
-                    "key": "MacedoniaSecondLeague"
-                }
-            ],
-            "country": "Macedonia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Super League",
-                    "key": "MalaysiaSuperLeague"
-                },
-                {
-                    "leagueName": "Premier League",
-                    "key": "MalaysiaPremierLeague"
-                }
-            ],
-            "country": "Malaysia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Première Division",
-                    "key": "MaliPremiereDivision"
-                }
-            ],
-            "country": "Mali"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "MaltaPremierDivision"
-                },
-                {
-                    "leagueName": "First Division",
-                    "key": "MaltaFirstDivision"
-                }
-            ],
-            "country": "Malta"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Liga MX Clausura",
-                    "key": "MexicoAscensoMXClausura"
-                },
-                {
-                    "leagueName": "Ascenso MX",
-                    "key": "MexicoPrimeraA"
-                },
-                {
-                    "leagueName": "Copa MX",
-                    "key": "MexicoCopaMX"
-                }
-            ],
-            "country": "Mexico"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Divizia Națională",
-                    "key": "MoldoviaDiviziaNazionala"
-                }
-            ],
-            "country": "Moldovia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "First League",
-                    "key": "MontenegroPrvaLiga"
-                }
-            ],
-            "country": "Montenegro"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Botola Pro",
-                    "key": "MoroccoGNEF1"
-                },
-                {
-                    "leagueName": "Botola 2",
-                    "key": "MoroccoGNEF2"
-                }
-            ],
-            "country": "Morocco"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Moçambola",
-                    "key": "MozambiqueMocambola",
-                    "id_gs": 2506
-                }
-            ],
-            "country": "Mozambique"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "NamibiaPremierLeague"
-                }
-            ],
-            "country": "Namibia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Eredivisie",
-                    "key": "NetherlandsEredivisie"
-                },
-                {
-                    "leagueName": "Eerste Divisie",
-                    "key": "NetherlandsEersteDivisie"
-                },
-                {
-                    "leagueName": "Tweede Divisie",
-                    "key": "NetherlandsTweedeDivisie"
-                },
-                {
-                    "leagueName": "KNVB Beker",
-                    "key": "NetherlandsKNVBBeker"
-                },
-                {
-                    "leagueName": "Play-offs 1/2",
-                    "key": "NetherlandsPlayoffs"
-                },
-                {
-                    "leagueName": "Super Cup",
-                    "key": "NetherlandsJohanCruijffSchaal"
-                },
-                {
-                    "leagueName": "Derde Divisie Zaterdag",
-                    "key": "NetherlandsTopKlassezaterdag"
-                },
-                {
-                    "leagueName": "Derde Divisie Zondag",
-                    "key": "NetherlandsTopKlassezondag"
-                },
-                {
-                    "leagueName": "Beloften",
-                    "key": "NetherlandsJongBeloften"
-                }
-            ],
-            "country": "Netherlands"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premiership",
-                    "key": "NewZealandPremiership"
-                }
-            ],
-            "country": "New Zealand"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera Division",
-                    "key": "NicaraguaPrimeraDivision"
-                }
-            ],
-            "country": "Nicaragua"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "NPFL",
-                    "key": "NigeriaPremierLeague"
-                }
-            ],
-            "country": "Nigeria"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premiership",
-                    "key": "NorthernIrelandNorthernIrelandIFAPremiership"
-                },
-                {
-                    "leagueName": "Championship",
-                    "key": "NorthernIrelandNorthernIrelandChampionship"
-                },
-                {
-                    "leagueName": "League Cup",
-                    "key": "NorthernIrelandLeagueCup",
-                    "id_gs": 2087
-                }
-            ],
-            "country": "Northern Ireland"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Eliteserien",
-                    "key": "NorwayEliteserien"
-                },
-                {
-                    "leagueName": "1. Division",
-                    "key": "NorwayAdeccoligaen"
-                },
-                {
-                    "leagueName": "NM Cupen",
-                    "key": "NorwayNMCupen"
-                },
-                {
-                    "leagueName": "2. Division Avdeling 1",
-                    "key": "Norway2DivisjonAvdeling1"
-                },
-                {
-                    "leagueName": "2. Division Avdeling 2",
-                    "key": "Norway2DivisjonAvdeling2"
-                },
-                {
-                    "leagueName": "2. Division Avdeling 3",
-                    "key": "Norway2DivisjonAvdeling3"
-                },
-                {
-                    "leagueName": "2. Division Avdeling 4",
-                    "key": "Norway2DivisjonAvdeling4"
-                }
-            ],
-            "country": "Norway"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Professional League",
-                    "key": "OmanEliteLeague"
-                }
-            ],
-            "country": "Oman"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "PakistanPremierLeague"
-                }
-            ],
-            "country": "Pakistan"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "LPF",
-                    "key": "PanamaLPF"
-                }
-            ],
-            "country": "Panama"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Division Profesional Apertura",
-                    "key": "ParaguayDivisionProfesionalApertura"
-                },
-                {
-                    "leagueName": "Division Profesional Clausura",
-                    "key": "ParaguayDivisionProfesionalClausura"
-                }
-            ],
-            "country": "Paraguay"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera División",
-                    "key": "PeruPrimeraDivision"
-                },
-                {
-                    "leagueName": "Segunda División",
-                    "key": "PeruSegundaDivision"
-                },
-                {
-                    "leagueName": "Copa Inca",
-                    "key": "PeruCopaInca"
-                },
-                {
-                    "leagueName": "Copa Bicentenario",
-                    "key": "PeruCopaBicentenario"
-                }
-            ],
-            "country": "Peru"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "UFL",
-                    "key": "PhilippinesChampionnatNational"
-                }
-            ],
-            "country": "Philippines"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Ekstraklasa",
-                    "key": "PolandEkstraklasa"
-                },
-                {
-                    "leagueName": "I Liga",
-                    "key": "PolandLiga1"
-                },
-                {
-                    "leagueName": "II Liga wschod",
-                    "key": "PolandLiga2East"
-                },
-                {
-                    "leagueName": "II Liga zachod",
-                    "key": "PolandLiga2West"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "PolandCup"
-                }
-            ],
-            "country": "Poland"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primeira Liga",
-                    "key": "PortugalPrimeiraLiga"
-                },
-                {
-                    "leagueName": "Segunda Liga",
-                    "key": "PortugalSegundaLiga"
-                },
-                {
-                    "leagueName": "Taça de Portugal",
-                    "key": "PortugalTacadePortugal"
-                },
-                {
-                    "leagueName": "Super Cup",
-                    "key": "PortugalSuperCup"
-                },
-                {
-                    "leagueName": "Taça da Liga",
-                    "key": "PortugalTacadaLiga"
-                },
-                {
-                    "leagueName": "Campeonato de Portugal Prio Grupo A",
-                    "key": "PortugalCampeonatoNacional-GroupA"
-                },
-                {
-                    "leagueName": "Campeonato de Portugal Prio Grupo B",
-                    "key": "PortugalCampeonatoNacional-GroupB"
-                },
-                {
-                    "leagueName": "Campeonato de Portugal Prio Grupo C",
-                    "key": "PortugalCampeonatoNacional-GroupC"
-                },
-                {
-                    "leagueName": "Campeonato de Portugal Prio Grupo D",
-                    "key": "PortugalCampeonatoNacional-GroupD"
-                }
-            ],
-            "country": "Portugal"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Stars League",
-                    "key": "QatarStarsLeague"
-                },
-                {
-                    "leagueName": "Second Division",
-                    "key": "QatarQLeague"
-                }
-            ],
-            "country": "Qatar"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Liga I",
-                    "key": "RomaniaLigaI"
-                },
-                {
-                    "leagueName": "Cupa României",
-                    "key": "RomaniaCupaRomaniei",
-                    "id_gs": 1862
-                },
-                {
-                    "leagueName": "Supercupa",
-                    "key": "RomaniaSupercupa"
-                },
-                {
-                    "leagueName": "Liga II Seria 1",
-                    "key": "RomaniaLigaIIseria1"
-                },
-                {
-                    "leagueName": "Liga II Seria 2",
-                    "key": "RomaniaLigaIIseria2"
-                },
-                {
-                    "leagueName": "Liga III Seria 1",
-                    "key": "RomaniaLigaIIIseria1"
-                },
-                {
-                    "leagueName": "Liga III Seria 2",
-                    "key": "RomaniaLigaIIIseria2"
-                },
-                {
-                    "leagueName": "Liga III Seria 3",
-                    "key": "RomaniaLigaIIIseria3"
-                },
-                {
-                    "leagueName": "Liga III Seria 4",
-                    "key": "RomaniaLigaIIIseria4"
-                },
-                {
-                    "leagueName": "Liga III Seria 5",
-                    "key": "RomaniaLigaIIIseria5"
-                },
-                {
-                    "leagueName": "Liga III Seria 6",
-                    "key": "RomaniaLigaIIIseria6"
-                }
-            ],
-            "country": "Romania"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "RussiaPremierLeague"
-                },
-                {
-                    "leagueName": "FNL",
-                    "key": "RussiaFNL"
-                },
-                {
-                    "leagueName": "2. Division Tsentr",
-                    "key": "Russia2.Divisioncenter"
-                },
-                {
-                    "leagueName": "2. Division Vostok",
-                    "key": "Russia2.Divisioneast"
-                },
-                {
-                    "leagueName": "2. Division Zapad",
-                    "key": "Russia2.Divisionwest"
-                },
-                {
-                    "leagueName": "2. Division Yugo",
-                    "key": "Russia2.Divisionsouth"
-                },
-                {
-                    "leagueName": "2. Division Ural Povolzhye",
-                    "key": "Russia2.DivisionUralPovolzhye"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "RussiaCup"
-                },
-                {
-                    "leagueName": "Play-offs 1/2",
-                    "key": "RussiaPlayoffs"
-                }
-            ],
-            "country": "Russia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "National Soccer League",
-                    "key": "RwandaNationalSoccerLeague",
-                    "id_gs": 2475
-                }
-            ],
-            "country": "Rwanda"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Campionato",
-                    "key": "SanMarinoCampionato"
-                }
-            ],
-            "country": "San Marino"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Pro League",
-                    "key": "SaudiArabiaProLeague"
-                },
-                {
-                    "leagueName": "Division 1",
-                    "key": "SaudiArabiaDivision1"
-                },
-                {
-                    "leagueName": "King's Cup",
-                    "key": "SaudiArabiaChampionsCup"
-                },
-                {
-                    "leagueName": "Crown Prince Cup",
-                    "key": "SaudiArabiaCrownPrinceCup"
-                }
-            ],
-            "country": "Saudi Arabia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premiership",
-                    "key": "ScotlandPremierLeague"
-                },
-                {
-                    "leagueName": "Championship",
-                    "key": "ScotlandDivision1"
-                },
-                {
-                    "leagueName": "League One",
-                    "key": "ScotlandDivision2"
-                },
-                {
-                    "leagueName": "League Two",
-                    "key": "ScotlandDivision3"
-                },
-                {
-                    "leagueName": "FA Cup",
-                    "key": "ScotlandFacup"
-                },
-                {
-                    "leagueName": "Challenge Cup",
-                    "key": "ScotlandChallengeCup"
-                },
-                {
-                    "leagueName": "League Cup",
-                    "key": "ScotlandLeagueCup"
-                }
-            ],
-            "country": "Scotland"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Ligue 1",
-                    "key": "SenegalLigue1"
-                }
-            ],
-            "country": "Senegal"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Super Liga",
-                    "key": "SerbiaSuperLiga"
-                },
-                {
-                    "leagueName": "Prva Liga",
-                    "key": "SerbiaPrvaLiga"
-                },
-                {
-                    "leagueName": "Srpska Liga Belgrade",
-                    "key": "SerbiaSrpskaLigaBelgrade"
-                },
-                {
-                    "leagueName": "Srpska Liga East",
-                    "key": "SerbiaSrpskaLigaEast"
-                },
-                {
-                    "leagueName": "Srpska Liga Vojvodina",
-                    "key": "SerbiaSrpskaLigaVojvodina"
-                },
-                {
-                    "leagueName": "Srpska Liga West",
-                    "key": "SerbiaSrpskaLigaWest"
-                }
-            ],
-            "country": "Serbia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "S.League",
-                    "key": "SingaporeSLeague"
-                },
-                {
-                    "leagueName": "League Cup",
-                    "key": "SingaporeCup"
-                }
-            ],
-            "country": "Singapore"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Super Liga",
-                    "key": "SlovakiaSuperLiga"
-                },
-                {
-                    "leagueName": "2. liga",
-                    "key": "Slovakia2Liga"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "SlovakiaCup"
-                },
-                {
-                    "leagueName": "3. liga Vychod",
-                    "key": "Slovakia3LigaVychod"
-                },
-                {
-                    "leagueName": "3. liga Zapad",
-                    "key": "Slovakia3LigaZapad"
-                }
-            ],
-            "country": "Slovakia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "1. SNL",
-                    "key": "Slovenia1-SNL"
-                },
-                {
-                    "leagueName": "2. SNL",
-                    "key": "Slovenia2-SNL"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "SloveniaCup",
-                    "id_gs": 1388
-                }
-            ],
-            "country": "Slovenia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "PSL",
-                    "key": "SouthAfricaPremierLeague"
-                }
-            ],
-            "country": "South Africa"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "K League Classic",
-                    "key": "SouthKoreaKLeagueClassic"
-                },
-                {
-                    "leagueName": "National League",
-                    "key": "SouthKoreaNationalLeague"
-                },
-                {
-                    "leagueName": "K3 League Advanced",
-                    "key": "SouthKoreaChallengersLeague"
-                },
-                {
-                    "leagueName": "K League Cup",
-                    "key": "SouthKoreaKLeagueCup"
-                }
-            ],
-            "country": "South Korea"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera División",
-                    "key": "SpainPrimeraDivision"
-                },
-                {
-                    "leagueName": "Segunda División",
-                    "key": "SpainSegundaDivision"
-                },
-                {
-                    "leagueName": "Copa del Rey",
-                    "key": "SpainCup"
-                },
-                {
-                    "leagueName": "Super Cup",
-                    "key": "SpainSuperCup"
-                },
-                {
-                    "leagueName": "Segunda B Grupo 1",
-                    "key": "SpainSegundaB:Group1"
-                },
-                {
-                    "leagueName": "Segunda B Grupo 2",
-                    "key": "SpainSegundaB:Group2"
-                },
-                {
-                    "leagueName": "Segunda B Grupo 3",
-                    "key": "SpainSegundaB:Group3"
-                },
-                {
-                    "leagueName": "Segunda B Grupo 4",
-                    "key": "SpainSegundaB:Group4"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 1",
-                    "key": "SpainTerceraDivision:Group1"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 2",
-                    "key": "SpainTerceraDivision:Group2"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 3",
-                    "key": "SpainTerceraDivision:Group3"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 4",
-                    "key": "SpainTerceraDivision:Group4"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 5",
-                    "key": "SpainTerceraDivision:Group5"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 6",
-                    "key": "SpainTerceraDivision:Group6"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 7",
-                    "key": "SpainTerceraDivision:Group7"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 8",
-                    "key": "SpainTerceraDivision:Group8"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 9",
-                    "key": "SpainTerceraDivision:Group9"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 10",
-                    "key": "SpainTerceraDivision:Group10"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 11",
-                    "key": "SpainTerceraDivision:Group11"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 12",
-                    "key": "SpainTerceraDivision:Group12"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 13",
-                    "key": "SpainTerceraDivision:Group13"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 14",
-                    "key": "SpainTerceraDivision:Group14"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 15",
-                    "key": "SpainTerceraDivision:Group15"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 16",
-                    "key": "SpainTerceraDivision:Group16"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 17",
-                    "key": "SpainTerceraDivision:Group17"
-                },
-                {
-                    "leagueName": "Tercera Division Grupo 18",
-                    "key": "SpainTerceraDivision:Group18"
-                }
-            ],
-            "country": "Spain"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Sudani Premier League",
-                    "key": "SudanPremierLeague"
-                }
-            ],
-            "country": "Sudan"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Topklasse",
-                    "key": "SurinameHoofdklasse"
-                }
-            ],
-            "country": "Suriname"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Allsvenskan",
-                    "key": "SwedenAllsvenskan"
-                },
-                {
-                    "leagueName": "Superettan",
-                    "key": "SwedenSuperettan"
-                },
-                {
-                    "leagueName": "Svenska Cupen",
-                    "key": "SwedenSvenskaCupen"
-                },
-                {
-                    "leagueName": "Division 1 Norra",
-                    "key": "SwedenDivision1Norra"
-                },
-                {
-                    "leagueName": "Division 1 Sodra",
-                    "key": "SwedenDivision1Sodra"
-                },
-                {
-                    "leagueName": "Division 2 Norra Gotaland",
-                    "key": "SwedenDivision2NorraGotaland"
-                },
-                {
-                    "leagueName": "Division 2 Norra Svealand",
-                    "key": "SwedenDivision2NorraSvealand"
-                },
-                {
-                    "leagueName": "Division 2 Norrland",
-                    "key": "SwedenDivision2Norrland"
-                },
-                {
-                    "leagueName": "Division 2 Sodra Gotaland",
-                    "key": "SwedenDivision2SodraGotaland"
-                },
-                {
-                    "leagueName": "Division 2 Sodra Svealand",
-                    "key": "SwedenDivision2SodraSvealand"
-                },
-                {
-                    "leagueName": "Division 2 Vastra Gotaland",
-                    "key": "SwedenDivision2VastraGotaland"
-                }
-            ],
-            "country": "Sweden"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Super League",
-                    "key": "SwitzerlandSuperLeague"
-                },
-                {
-                    "leagueName": "Challenge League",
-                    "key": "SwitzerlandChallengeLeague"
-                },
-                {
-                    "leagueName": "1. Liga Promotion",
-                    "key": "SwitzerlandLigaClassicPromotion"
-                },
-                {
-                    "leagueName": "1. Liga Classic Group 1",
-                    "key": "SwitzerlandLigaClassicGroup1",
-                    "id_gs": 2893
-                },
-                {
-                    "leagueName": "1. Liga Classic Group 2",
-                    "key": "SwitzerlandLigaClassicGroup2",
-                    "id_gs": 2894
-                },
-                {
-                    "leagueName": "1. Liga Classic Group 3",
-                    "key": "SwitzerlandLigaClassicGroup3",
-                    "id_gs": 2895
-                },
-                {
-                    "leagueName": "Schweizer Pokal",
-                    "key": "SwitzerlandCup"
-                }
-            ],
-            "country": "Switzerland"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Vysshaya Liga",
-                    "key": "TajikistanVysshayaLiga",
-                    "id_gs": 2597
-                }
-            ],
-            "country": "Tajikistan"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Ligi kuu Bara",
-                    "key": "TanzaniaLigikuuBara"
-                }
-            ],
-            "country": "Tanzania"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Thai League",
-                    "key": "ThailandPremierLeague"
-                },
-                {
-                    "leagueName": "Thai League 2",
-                    "key": "ThailandDivision1"
-                }
-            ],
-            "country": "Thailand"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "T & T Pro League",
-                    "key": "TrinidadandTobagoPremierLeague"
-                }
-            ],
-            "country": "Trinidad and Tobago"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Ligue 1",
-                    "key": "TunisiaLigue1"
-                }
-            ],
-            "country": "Tunisia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Süper Lig",
-                    "key": "TurkeySuperLig"
-                },
-                {
-                    "leagueName": "1. Lig",
-                    "key": "TurkeyLigA"
-                },
-                {
-                    "leagueName": "2. Lig Beyaz",
-                    "key": "TurkeyLigBBeyaz"
-                },
-                {
-                    "leagueName": "2. Lig Kirmizi",
-                    "key": "TurkeyLigBKirmizi"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "TurkeyCup"
-                },
-                {
-                    "leagueName": "3. Lig grup 1",
-                    "key": "TurkeyLigCGroup1"
-                },
-                {
-                    "leagueName": "3. Lig grup 2",
-                    "key": "TurkeyLigCGroup2"
-                },
-                {
-                    "leagueName": "3. Lig grup 3",
-                    "key": "TurkeyLigCGroup3"
-                }
-            ],
-            "country": "Turkey"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "UgandaLigaNacional"
-                }
-            ],
-            "country": "Uganda"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "UkrainePremierLeague"
-                },
-                {
-                    "leagueName": "Persha Liga",
-                    "key": "UkrainePershaLiga"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "UkraineCup"
-                },
-                {
-                    "leagueName": "Druha Liga Gryp A",
-                    "key": "UkraineSecondLeagueGrypA"
-                },
-                {
-                    "leagueName": "Druha Liga Gryp B",
-                    "key": "UkraineSecondLeagueGrypB"
-                }
-            ],
-            "country": "Ukraine"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Arabian Gulf League",
-                    "key": "UnitedArabEmiratesGulfLeague"
-                },
-                {
-                    "leagueName": "Division 1",
-                    "key": "UnitedArabEmirates1stDivision"
-                }
-            ],
-            "country": "United Arab Emirates"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "MLS",
-                    "key": "UnitedStatesMLS"
-                },
-                {
-                    "leagueName": "NASL",
-                    "key": "UnitedStatesNASL"
-                },
-                {
-                    "leagueName": "USL",
-                    "key": "UnitedStatesUSLChampionship"
-                },
-                {
-                    "leagueName": "USL League one",
-                    "key": "UnitedStatesUSLLeagueone"
-                },
-                {
-                    "leagueName": "USL 2",
-                    "key": "UnitedStatesUSL2"
-                },
-                {
-                    "leagueName": "PDL",
-                    "key": "UnitedStatesPDL"
-                },
-                {
-                    "leagueName": "US Open Cup",
-                    "key": "UnitedStatesCup"
-                },
-                {
-                    "leagueName": "NWSL",
-                    "key": "UnitedStatesNWSLWoman"
-                }
-            ],
-            "country": "United States"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera División Apertura",
-                    "key": "UruguayPrimeraDivision:Apertura"
-                },
-                {
-                    "leagueName": "Primera División Clausura",
-                    "key": "UruguayPrimeraDivision:Clausura"
-                },
-                {
-                    "leagueName": "Segunda División",
-                    "key": "UruguaySegundaDivision"
-                }
-            ],
-            "country": "Uruguay"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "PFL",
-                    "key": "UzbekistanOliyLiga"
-                }
-            ],
-            "country": "Uzbekistan"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Primera División",
-                    "key": "VenezuelaPrimeraDivision"
-                },
-                {
-                    "leagueName": "Segunda División",
-                    "key": "VenezuelaSegundaDivision"
-                }
-            ],
-            "country": "Venezuela"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "V.League 1",
-                    "key": "VietnamVLeague"
-                },
-                {
-                    "leagueName": "V.League 2",
-                    "key": "VietnamVLeague2"
-                },
-                {
-                    "leagueName": "Cup",
-                    "key": "VietnamCup"
-                }
-            ],
-            "country": "Vietnam"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "WalesPremierLeague"
-                },
-                {
-                    "leagueName": "Welsh Cup",
-                    "key": "WalesFACup"
-                },
-                {
-                    "leagueName": "Feeder Leagues Cymru Alliance",
-                    "key": "WalesCymruAlliance"
-                },
-                {
-                    "leagueName": "Feeder Leagues Welsh League Division1",
-                    "key": "WalesWelshLeagueDivision1"
-                }
-            ],
-            "country": "Wales"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "World Cup",
-                    "key": "WorldCupBrazil2014"
-                },
-                {
-                    "leagueName": "Women's World Cup",
-                    "key": "WorldCupWomanWorldCup"
-                },
-                {
-                    "leagueName": "FIFA Club World Cup",
-                    "key": "WorldCupFifaClubWorldCup"
-                }
-            ],
-            "country": "World Cup"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "WC Qualification Europe",
-                    "key": "WorldCupQualificationsEurope"
-                },
-                {
-                    "leagueName": "WC Qualification South America",
-                    "key": "WorldCupQualificationsSouthAmerica"
-                },
-                {
-                    "leagueName": "WC Qualification Asia",
-                    "key": "WorldCupQualificationsAsia"
-                },
-                {
-                    "leagueName": "WC Qualification Africa",
-                    "key": "WorldCupQualificationsAfrica"
-                },
-                {
-                    "leagueName": "WC Qualification Oceania",
-                    "key": "WorldCupQualificationsOceania"
-                },
-                {
-                    "leagueName": "WC Qualification CONCACAF",
-                    "key": "WorldCupQualificationsNorthCentralAmerica"
-                }
-            ],
-            "country": "World Cup Qualifications"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Yemeni League",
-                    "key": "YemenYemeniLeague"
-                }
-            ],
-            "country": "Yemen"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Super League",
-                    "key": "ZambiaSuperLeague"
-                }
-            ],
-            "country": "Zambia"
-        },
-        {
-            "leagues": [
-                {
-                    "leagueName": "Premier League",
-                    "key": "syriaPremierLeague"
-                }
-            ],
-            "country": "syria"
+          "leagueName": "UEFA Youth League",
+          "key": "EurocupsUEFAYouthLeague"
         }
-    ]
+      ],
+      "country": "Eurocups"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Serie A",
+          "key": "ItalySerieA"
+        },
+        {
+          "leagueName": "Serie B",
+          "key": "ItalySerieB"
+        },
+        {
+          "leagueName": "Serie C Girone A",
+          "key": "ItalyLegaPro1-GironeA"
+        },
+        {
+          "leagueName": "Serie C Girone B",
+          "key": "ItalyLegaPro1-GironeB"
+        },
+        {
+          "leagueName": "Serie C Girone C",
+          "key": "ItalyLegaPro1-GironeC"
+        },
+        {
+          "leagueName": "Serie D Girone A",
+          "key": "ItalySerieD-GironeA"
+        },
+        {
+          "leagueName": "Serie D Girone B",
+          "key": "ItalySerieD-GironeB"
+        },
+        {
+          "leagueName": "Serie D Girone C",
+          "key": "ItalySerieD-GironeC"
+        },
+        {
+          "leagueName": "Serie D Girone D",
+          "key": "ItalySerieD-GironeD"
+        },
+        {
+          "leagueName": "Serie D Girone E",
+          "key": "ItalySerieD-GironeE"
+        },
+        {
+          "leagueName": "Serie D Girone F",
+          "key": "ItalySerieD-GironeF"
+        },
+        {
+          "leagueName": "Serie D Girone G",
+          "key": "ItalySerieD-GironeG"
+        },
+        {
+          "leagueName": "Serie D Girone H",
+          "key": "ItalySerieD-GironeH"
+        },
+        {
+          "leagueName": "Serie D Girone I",
+          "key": "ItalySerieD-GironeI"
+        },
+        {
+          "leagueName": "Coppa Italia",
+          "key": "ItalyCoppaItalia"
+        },
+        {
+          "leagueName": "Super Cup",
+          "key": "ItalySupercup"
+        }
+      ],
+      "country": "Italy"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "EnglandPremierLeague"
+        },
+        {
+          "leagueName": "Championship",
+          "key": "EnglandChampionship"
+        },
+        {
+          "leagueName": "FA Cup",
+          "key": "EnglandFACup"
+        },
+        {
+          "leagueName": "League Cup",
+          "key": "EnglandCarlingCup"
+        },
+        {
+          "leagueName": "Community Shield",
+          "key": "EnglandCommunityShield"
+        },
+        {
+          "leagueName": "FA Trophy",
+          "key": "EnglandFATrophy"
+        },
+        {
+          "leagueName": "EFL Trophy",
+          "key": "EnglandFLTrophy"
+        },
+        {
+          "leagueName": "League One",
+          "key": "EnglandLeagueOne"
+        },
+        {
+          "leagueName": "League Two",
+          "key": "EnglandLeagueTwo"
+        },
+        {
+          "leagueName": "National League",
+          "key": "EnglandConferenceNational"
+        },
+        {
+          "leagueName": "National League N / S North",
+          "key": "EnglandConferenceNorth"
+        },
+        {
+          "leagueName": "National League N / S South",
+          "key": "EnglandConferenceSouth"
+        },
+        {
+          "leagueName": "Non League Premier Northern",
+          "key": "EnglandNonLeaguePremierNorthern"
+        },
+        {
+          "leagueName": "Non League Premier Southern",
+          "key": "EnglandNonLeaguePremierSouthern"
+        },
+        {
+          "leagueName": "Non League Premier Isthmian",
+          "key": "EnglandNonLeaguePremierIsthmian"
+        },
+        {
+          "leagueName": "Non League Div One Isthmian North",
+          "key": "EnglandNonLeagueDivOneIsthmianNorth"
+        },
+        {
+          "leagueName": "Non League Div One Isthmian South",
+          "key": "EnglandNonLeagueDivOneIsthmianSouth"
+        },
+        {
+          "leagueName": "Non League Div One Northern North",
+          "key": "EnglandNonLeagueDivOneNorthernNorth"
+        },
+        {
+          "leagueName": "Non League Div One Northern South",
+          "key": "EnglandNonLeagueDivOneNorthernSouth"
+        },
+        {
+          "leagueName": "Non League Div One Southern Central",
+          "key": "EnglandNonLeagueDivOneSouthernCentral"
+        },
+        {
+          "leagueName": "Non League Div One Southern SW",
+          "key": "EnglandNonLeagueDivOneSouthernSW"
+        }
+      ],
+      "country": "England"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Bundesliga",
+          "key": "GermanyBundesliga"
+        },
+        {
+          "leagueName": "2. Bundesliga",
+          "key": "GermanyBundesliga2"
+        },
+        {
+          "leagueName": "DFB Pokal",
+          "key": "GermanyCup"
+        },
+        {
+          "leagueName": "Super Cup",
+          "key": "GermanySuperCup"
+        },
+        {
+          "leagueName": "3. Liga",
+          "key": "Germany3Liga"
+        },
+        {
+          "leagueName": "Play-offs 1/2",
+          "key": "GermanyPlayoffs12"
+        },
+        {
+          "leagueName": "Play-offs 2/3",
+          "key": "GermanyPlayoffs23"
+        },
+        {
+          "leagueName": "Regionalliga Nordost",
+          "key": "GermanyRegionalligaNordost"
+        },
+        {
+          "leagueName": "Regionalliga Nord",
+          "key": "GermanyRegionalligaNord"
+        },
+        {
+          "leagueName": "Regionalliga Sudwest",
+          "key": "GermanyRegionalligaSudwest"
+        },
+        {
+          "leagueName": "Regionalliga West",
+          "key": "GermanyRegionalligaWest"
+        },
+        {
+          "leagueName": "Regionalliga Bayern",
+          "key": "GermanyRegionalligaBayern"
+        },
+        {
+          "leagueName": "Oberliga Mittelrhein",
+          "key": "GermanyOberligaMittelrhein"
+        },
+        {
+          "leagueName": "Oberliga Westfalen",
+          "key": "GermanyOberligaWestfalen"
+        },
+        {
+          "leagueName": "Oberliga Nordost-Sud",
+          "key": "GermanyOberligaNordost-Sud"
+        },
+        {
+          "leagueName": "Oberliga Baden-Wurttemberg",
+          "key": "GermanyOberligaBaden-Wurttemberg"
+        },
+        {
+          "leagueName": "Oberliga Bremen",
+          "key": "GermanyOberligaBremen"
+        },
+        {
+          "leagueName": "Oberliga Nordost-Nord",
+          "key": "GermanyOberligaNordost-Nord"
+        },
+        {
+          "leagueName": "Oberliga Hamburg",
+          "key": "GermanyOberligaHamburg"
+        },
+        {
+          "leagueName": "Oberliga Niedersachsen",
+          "key": "GermanyOberligaNiedersachsen"
+        },
+        {
+          "leagueName": "Oberliga Schleswig-Holstein",
+          "key": "GermanyOberligaSchleswig-Holstein"
+        },
+        {
+          "leagueName": "Oberliga Hessen",
+          "key": "GermanyOberligaHessen"
+        },
+        {
+          "leagueName": "Oberliga Niederrhein",
+          "key": "GermanyOberligaNiederrhein"
+        },
+        {
+          "leagueName": "Oberliga Rheinland-Pfalz Saar",
+          "key": "GermanyOberligaRheinland-PfalzSaar"
+        },
+        {
+          "leagueName": "Oberliga Bayern Nord",
+          "key": "GermanyOberligaBayernNord"
+        },
+        {
+          "leagueName": "Oberliga Bayern Sud",
+          "key": "GermanyOberligaBayernSud"
+        }
+      ],
+      "country": "Germany"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Ligue 1",
+          "key": "FranceLigue1"
+        },
+        {
+          "leagueName": "Ligue 2",
+          "key": "FranceLigue2"
+        },
+        {
+          "leagueName": "National 1",
+          "key": "FranceNational"
+        },
+        {
+          "leagueName": "National 2 Group A",
+          "key": "FranceCFA:GroupA"
+        },
+        {
+          "leagueName": "National 2 Group B",
+          "key": "FranceCFA:GroupB"
+        },
+        {
+          "leagueName": "National 2 Group C",
+          "key": "FranceCFA:GroupC"
+        },
+        {
+          "leagueName": "National 2 Group D",
+          "key": "FranceCFA:GroupD"
+        },
+        {
+          "leagueName": "National 3 Group A",
+          "key": "FranceCFA2:GroupA"
+        },
+        {
+          "leagueName": "National 3 Group B",
+          "key": "FranceCFA2:GroupB"
+        },
+        {
+          "leagueName": "National 3 Group C",
+          "key": "FranceCFA2:GroupC"
+        },
+        {
+          "leagueName": "National 3 Group D",
+          "key": "FranceCFA2:GroupD"
+        },
+        {
+          "leagueName": "National 3 Group E",
+          "key": "FranceCFA2:GroupE"
+        },
+        {
+          "leagueName": "National 3 Group F",
+          "key": "FranceCFA2:GroupF"
+        },
+        {
+          "leagueName": "National 3 Group G",
+          "key": "FranceCFA2:GroupG"
+        },
+        {
+          "leagueName": "National 3 Group H",
+          "key": "FranceCFA2:GroupH"
+        },
+        {
+          "leagueName": "National 3 Group I",
+          "key": "FranceCFA2:GroupI"
+        },
+        {
+          "leagueName": "National 3 Group J",
+          "key": "FranceCFA2:GroupJ"
+        },
+        {
+          "leagueName": "National 3 Group K",
+          "key": "FranceCFA2:GroupK"
+        },
+        {
+          "leagueName": "National 3 Group L",
+          "key": "FranceCFA2:GroupL"
+        },
+        {
+          "leagueName": "National 3 Group M",
+          "key": "FranceCFA2:GroupM"
+        },
+        {
+          "leagueName": "Coupe de France",
+          "key": "FranceCoupedeFrance"
+        },
+        {
+          "leagueName": "Coupe de la Ligue",
+          "key": "FranceCoupedelaLigue"
+        },
+        {
+          "leagueName": "Super Cup",
+          "key": "FranceSuperCup"
+        }
+      ],
+      "country": "France"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "World Cup",
+          "key": "WorldCupBrazil2014"
+        },
+        {
+          "leagueName": "Women's World Cup",
+          "key": "WorldCupWomanWorldCup"
+        },
+        {
+          "leagueName": "FIFA Club World Cup",
+          "key": "WorldCupFifaClubWorldCup"
+        }
+      ],
+      "country": "World Cup"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "WC Qualification Europe",
+          "key": "WorldCupQualificationsEurope"
+        },
+        {
+          "leagueName": "WC Qualification South America",
+          "key": "WorldCupQualificationsSouthAmerica"
+        },
+        {
+          "leagueName": "WC Qualification Asia",
+          "key": "WorldCupQualificationsAsia"
+        },
+        {
+          "leagueName": "WC Qualification Africa",
+          "key": "WorldCupQualificationsAfrica"
+        },
+        {
+          "leagueName": "WC Qualification Oceania",
+          "key": "WorldCupQualificationsOceania"
+        },
+        {
+          "leagueName": "WC Qualification CONCACAF",
+          "key": "WorldCupQualificationsNorthCentralAmerica"
+        }
+      ],
+      "country": "World Cup Qualifications"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera División",
+          "key": "SpainPrimeraDivision"
+        },
+        {
+          "leagueName": "Segunda División",
+          "key": "SpainSegundaDivision"
+        },
+        {
+          "leagueName": "Copa del Rey",
+          "key": "SpainCup"
+        },
+        {
+          "leagueName": "Super Cup",
+          "key": "SpainSuperCup"
+        },
+        {
+          "leagueName": "Segunda B Grupo 1",
+          "key": "SpainSegundaB:Group1"
+        },
+        {
+          "leagueName": "Segunda B Grupo 2",
+          "key": "SpainSegundaB:Group2"
+        },
+        {
+          "leagueName": "Segunda B Grupo 3",
+          "key": "SpainSegundaB:Group3"
+        },
+        {
+          "leagueName": "Segunda B Grupo 4",
+          "key": "SpainSegundaB:Group4"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 1",
+          "key": "SpainTerceraDivision:Group1"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 2",
+          "key": "SpainTerceraDivision:Group2"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 3",
+          "key": "SpainTerceraDivision:Group3"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 4",
+          "key": "SpainTerceraDivision:Group4"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 5",
+          "key": "SpainTerceraDivision:Group5"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 6",
+          "key": "SpainTerceraDivision:Group6"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 7",
+          "key": "SpainTerceraDivision:Group7"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 8",
+          "key": "SpainTerceraDivision:Group8"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 9",
+          "key": "SpainTerceraDivision:Group9"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 10",
+          "key": "SpainTerceraDivision:Group10"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 11",
+          "key": "SpainTerceraDivision:Group11"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 12",
+          "key": "SpainTerceraDivision:Group12"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 13",
+          "key": "SpainTerceraDivision:Group13"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 14",
+          "key": "SpainTerceraDivision:Group14"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 15",
+          "key": "SpainTerceraDivision:Group15"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 16",
+          "key": "SpainTerceraDivision:Group16"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 17",
+          "key": "SpainTerceraDivision:Group17"
+        },
+        {
+          "leagueName": "Tercera Division Grupo 18",
+          "key": "SpainTerceraDivision:Group18"
+        }
+      ],
+      "country": "Spain"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Superliga",
+          "key": "AlbaniaSuperliga"
+        },
+        {
+          "leagueName": "1st Division",
+          "key": "Albania1stDivision"
+        },
+        {
+          "leagueName": "2nd Division Group A",
+          "key": "Albania2ndDivisionGroupA"
+        },
+        {
+          "leagueName": "2nd Division Group B",
+          "key": "Albania2ndDivisionGroupB"
+        }
+      ],
+      "country": "Albania"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Ligue 1",
+          "key": "AlgeriaLigue1"
+        },
+        {
+          "leagueName": "Ligue 2",
+          "key": "AlgeriaLigue2"
+        }
+      ],
+      "country": "Algeria"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "1a Divisió",
+          "key": "Andorra1aDivisio"
+        },
+        {
+          "leagueName": "2a Divisió",
+          "key": "Andorra2aDivisio"
+        }
+      ],
+      "country": "Andorra"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Girabola",
+          "key": "AngolaGirabola"
+        }
+      ],
+      "country": "Angola"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Superliga",
+          "key": "ArgentinaPrimeraDivision"
+        },
+        {
+          "leagueName": "Prim B Nacional Apertura",
+          "key": "ArgentinaPrimBNacional"
+        },
+        {
+          "leagueName": "Prim B Metro",
+          "key": "ArgentinaPrimBMetro"
+        },
+        {
+          "leagueName": "Primera C",
+          "key": "ArgentinaPrimCMetro"
+        },
+        {
+          "leagueName": "Primera D",
+          "key": "ArgentinaPrimDMetro"
+        },
+        {
+          "leagueName": "Torneo Federal A",
+          "key": "ArgentinaTorneoFederalA"
+        },
+        {
+          "leagueName": "Torneo Federal B",
+          "key": "ArgentinaTorneoFederalB"
+        },
+        {
+          "leagueName": "Copa Argentina",
+          "key": "ArgentinaCopaArgentina"
+        },
+        {
+          "leagueName": "Copa De La Superliga",
+          "key": "ArgentinaCopaDeLaSuperliga",
+          "id_gs": 5358
+        }
+      ],
+      "country": "Argentina"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "ArmeniaPremierLeague"
+        },
+        {
+          "leagueName": "First League",
+          "key": "ArmeniaFirstLeague"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "ArmeniaCup",
+          "id_gs": 2211
+        }
+      ],
+      "country": "Armenia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Division di Honor",
+          "key": "ArubaDivisiondiHonor"
+        }
+      ],
+      "country": "Aruba"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "A-League",
+          "key": "AustraliaA-League"
+        },
+        {
+          "leagueName": "Queensland",
+          "key": "AustraliaNPLQueensland"
+        },
+        {
+          "leagueName": "Capital Territory",
+          "key": "AustraliaCapitalTerritory"
+        },
+        {
+          "leagueName": "New South Wales",
+          "key": "AustraliaNewSouthWales"
+        },
+        {
+          "leagueName": "Northern Territory",
+          "key": "AustraliaNorthern"
+        },
+        {
+          "leagueName": "Brisbane",
+          "key": "AustraliaBrisbane"
+        },
+        {
+          "leagueName": "Northern NSW",
+          "key": "AustraliaNorthernNSW"
+        },
+        {
+          "leagueName": "South Australian",
+          "key": "AustraliaSouthAustralian",
+          "id_gs": 2672
+        }
+      ],
+      "country": "Australia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Bundesliga",
+          "key": "AustriaBundesliga"
+        },
+        {
+          "leagueName": "1. Liga",
+          "key": "Austria1-Liga"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "AustriaCup"
+        },
+        {
+          "leagueName": "Regionalliga Mitte",
+          "key": "AustriaRegionalligaMitte"
+        },
+        {
+          "leagueName": "Regionalliga Ost",
+          "key": "AustriaRegionalligaOst"
+        },
+        {
+          "leagueName": "Regionalliga West",
+          "key": "AustriaRegionalligaWest"
+        },
+        {
+          "leagueName": "Landesliga Wien",
+          "key": "AustriaLandesligaWien"
+        },
+        {
+          "leagueName": "Landesliga Tirol",
+          "key": "AustriaLandesligaTirol"
+        },
+        {
+          "leagueName": "Landesliga Niederosterreich",
+          "key": "AustriaLandesliga-Niederosterreich"
+        },
+        {
+          "leagueName": "Landesliga Oberosterreich",
+          "key": "AustriaLandesliga-Oberosterreich"
+        },
+        {
+          "leagueName": "Landesliga Salzburg",
+          "key": "AustriaLandesliga-Salzburg"
+        },
+        {
+          "leagueName": "Landesliga Burgenland",
+          "key": "AustriaLandesliga-Burgenland"
+        },
+        {
+          "leagueName": "Landesliga Steiermark",
+          "key": "AustriaLandesliga-Steiermark"
+        },
+        {
+          "leagueName": "Landesliga Karnten",
+          "key": "AustriaLandesliga-Karnten"
+        },
+        {
+          "leagueName": "Landesliga Vorarlbergliga",
+          "key": "AustriaVorarlbergliga"
+        }
+      ],
+      "country": "Austria"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premyer Liqa",
+          "key": "AzerbaijanPremyerLiqasi"
+        },
+        {
+          "leagueName": "Birinci Dasta",
+          "key": "AzerbaijanBirinciDasta"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "AzerbaijanCup"
+        }
+      ],
+      "country": "Azerbaijan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "BahrainPremierLeague"
+        }
+      ],
+      "country": "Bahrain"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "BangladeshPremierLeague"
+        }
+      ],
+      "country": "Bangladesh"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "BarbadosPremierLeague"
+        }
+      ],
+      "country": "Barbados"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "BelarusPremierLeague"
+        },
+        {
+          "leagueName": "1. Division",
+          "key": "BelarusDivision1"
+        },
+        {
+          "leagueName": "2. Division",
+          "key": "BelarusDivision2"
+        }
+      ],
+      "country": "Belarus"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "First Division A",
+          "key": "BelgiumProLeague"
+        },
+        {
+          "leagueName": "First Division B",
+          "key": "BelgiumSecondDivision"
+        },
+        {
+          "leagueName": "First Amateur Division",
+          "key": "BelgiumFirstAmateurDivision"
+        },
+        {
+          "leagueName": "Second Amateur Division VFV A",
+          "key": "BelgiumSecondAmateurDivisionVFVA"
+        },
+        {
+          "leagueName": "Second Amateur Division VFV B",
+          "key": "BelgiumSecondAmateurDivisionVFVB"
+        },
+        {
+          "leagueName": "Second Amateur Division ACFF",
+          "key": "BelgiumSecondAmateurDivisionACFF"
+        },
+        {
+          "leagueName": "Third Amateur Division VFV A",
+          "key": "BelgiumThirdAmateurDivisionVFVA"
+        },
+        {
+          "leagueName": "Third Amateur Division VFV B",
+          "key": "BelgiumThirdAmateurDivisionVFVB"
+        },
+        {
+          "leagueName": "Third Amateur Division ACFF A",
+          "key": "BelgiumThirdAmateurDivisionACFFA"
+        },
+        {
+          "leagueName": "Third Amateur Division ACFF B",
+          "key": "BelgiumThirdAmateurDivisionACFFB"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "BelgiumCup"
+        },
+        {
+          "leagueName": "Super Cup",
+          "key": "BelgiumSuperCup"
+        },
+        {
+          "leagueName": "Play-offs 1/2",
+          "key": "BelgiumPlayoffs12"
+        },
+        {
+          "leagueName": "Play-offs 2/3",
+          "key": "BelgiumPlayoffs23"
+        },
+        {
+          "leagueName": "Provincial Antwerpen",
+          "key": "BelgiumProvincialAntwerpen"
+        },
+        {
+          "leagueName": "Provincial Brabant",
+          "key": "BelgiumProvincialBrabant"
+        },
+        {
+          "leagueName": "Provincial Hainaut",
+          "key": "BelgiumProvincialHainaut"
+        },
+        {
+          "leagueName": "Provincial Liege",
+          "key": "BelgiumProvincialLiege"
+        },
+        {
+          "leagueName": "Provincial Limburg",
+          "key": "BelgiumProvincialLimburg"
+        },
+        {
+          "leagueName": "Provincial Luxembourg",
+          "key": "BelgiumProvincialLuxembourg"
+        },
+        {
+          "leagueName": "Provincial Namur",
+          "key": "BelgiumProvincialNamur"
+        },
+        {
+          "leagueName": "Provincial Oost Vlaanderen",
+          "key": "BelgiumProvincialOostVlaanderen"
+        },
+        {
+          "leagueName": "Provincial West Vlaanderen",
+          "key": "BelgiumProvincialWestVlaanderen"
+        }
+      ],
+      "country": "Belgium"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "BelizePremierLeague"
+        }
+      ],
+      "country": "Belize"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "BermudaPremierLeague"
+        }
+      ],
+      "country": "Bermuda"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Thimphu League",
+          "key": "BhutanA-Division"
+        }
+      ],
+      "country": "Bhutan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "LFPB",
+          "key": "BoliviaPrimeraDivision"
+        }
+      ],
+      "country": "Bolivia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premijer Liga",
+          "key": "BosniaandHerzegovinaPremierLiga"
+        },
+        {
+          "leagueName": "1st League RS",
+          "key": "BosniaandHerzegovina1stLeagueFBiH"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "BosniaandHerzegovinaCup"
+        }
+      ],
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "BotswanaPremierLeague"
+        }
+      ],
+      "country": "Botswana"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Serie A",
+          "key": "BrazilSerieA"
+        },
+        {
+          "leagueName": "Serie B",
+          "key": "BrazilSerieB",
+          "id_gs": 1117
+        },
+        {
+          "leagueName": "Serie C",
+          "key": "BrazilSerieC"
+        },
+        {
+          "leagueName": "Serie D",
+          "key": "BrazilSerieD"
+        },
+        {
+          "leagueName": "Copa do Brasil",
+          "key": "BrazilCopadoBrasil"
+        },
+        {
+          "leagueName": "Carioca 1",
+          "key": "BrazilCarioca1"
+        },
+        {
+          "leagueName": "Carioca 2",
+          "key": "BrazilCarioca2"
+        },
+        {
+          "leagueName": "Copa do Nordeste Campeonato Nordeste",
+          "key": "BrazilCampeonatoNordeste"
+        },
+        {
+          "leagueName": "Paulista A1",
+          "key": "BrazilPaulistaA1"
+        },
+        {
+          "leagueName": "Paulista A2",
+          "key": "BrazilPaulistaA2"
+        },
+        {
+          "leagueName": "Paulista A3",
+          "key": "BrazilPaulistaA3"
+        },
+        {
+          "leagueName": "Gaúcho 1",
+          "key": "BrazilGaucho1"
+        },
+        {
+          "leagueName": "Gaúcho 2",
+          "key": "BrazilGaucho2"
+        },
+        {
+          "leagueName": "Mineiro 1",
+          "key": "BrazilMineiro1"
+        },
+        {
+          "leagueName": "Mineiro 2",
+          "key": "BrazilMineiro2"
+        },
+        {
+          "leagueName": "Baiano 1",
+          "key": "BrazilBaiano1"
+        },
+        {
+          "leagueName": "Baiano 2",
+          "key": "BrazilBaiano2"
+        },
+        {
+          "leagueName": "Paranaense 1",
+          "key": "BrazilParanaense1"
+        },
+        {
+          "leagueName": "Paranaense 2",
+          "key": "BrazilParanaense2"
+        },
+        {
+          "leagueName": "Pernambucano 1",
+          "key": "BrazilPernambucano"
+        },
+        {
+          "leagueName": "Catarinense 1",
+          "key": "BrazilCatarinense"
+        },
+        {
+          "leagueName": "Goiano 1",
+          "key": "BrazilGoiano"
+        },
+        {
+          "leagueName": "Cearense 1",
+          "key": "BrazilCearense1"
+        },
+        {
+          "leagueName": "Cearense 2",
+          "key": "BrazilCearense2"
+        },
+        {
+          "leagueName": "Paraense",
+          "key": "BrazilParaense"
+        },
+        {
+          "leagueName": "Brasiliense",
+          "key": "BrazilBrasiliense"
+        },
+        {
+          "leagueName": "Paraibano",
+          "key": "BrazilParaibano"
+        },
+        {
+          "leagueName": "Alagoano",
+          "key": "BrazilAlagoano"
+        },
+        {
+          "leagueName": "Potiguar",
+          "key": "BrazilPotiguar"
+        },
+        {
+          "leagueName": "Sergipano",
+          "key": "BrazilSergipano"
+        },
+        {
+          "leagueName": "Amazonense",
+          "key": "BrazilAmazonense"
+        },
+        {
+          "leagueName": "Matogrossense",
+          "key": "BrazilMatogrossense"
+        },
+        {
+          "leagueName": "Sul-Matogrossense",
+          "key": "BrazilSulMatogrossense"
+        },
+        {
+          "leagueName": "Capixaba",
+          "key": "BrazilCapixaba"
+        },
+        {
+          "leagueName": "Maranhense",
+          "key": "BrazilMaranhense"
+        },
+        {
+          "leagueName": "Piauiense",
+          "key": "BrazilPiauiense"
+        },
+        {
+          "leagueName": "Acreano",
+          "key": "BrazilAcreano"
+        },
+        {
+          "leagueName": "Rondoniense",
+          "key": "BrazilRondoniense"
+        },
+        {
+          "leagueName": "Tocantinense",
+          "key": "BrazilTocantinense"
+        },
+        {
+          "leagueName": "Amapaense",
+          "key": "BrazilAmapaense"
+        },
+        {
+          "leagueName": "Roraimense",
+          "key": "BrazilRoraimense"
+        }
+      ],
+      "country": "Brazil"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Super League",
+          "key": "BruneiDarussalamSuperLeague"
+        }
+      ],
+      "country": "Brunei Darussalam"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "First League",
+          "key": "BulgariaAPFG"
+        },
+        {
+          "leagueName": "Second League Zapad",
+          "key": "BulgariaBPFGWest"
+        },
+        {
+          "leagueName": "Second League Iztok",
+          "key": "BulgariaBPFGEast"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "BulgariaCup"
+        },
+        {
+          "leagueName": "Third League Severoiztok",
+          "key": "BulgariaVAFGNortheast"
+        },
+        {
+          "leagueName": "Third League Severozapadna",
+          "key": "BulgariaVAFGNorthwest"
+        },
+        {
+          "leagueName": "Third League Yugoiztok",
+          "key": "BulgariaVAFGSoutheast"
+        },
+        {
+          "leagueName": "Third League Yugozapad",
+          "key": "BulgariaVAFGSouthwest"
+        }
+      ],
+      "country": "Bulgaria"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "1ère Division",
+          "key": "BurkinaFaso1stDivision"
+        }
+      ],
+      "country": "Burkina Faso"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "C-League",
+          "key": "CambodiaC-League"
+        }
+      ],
+      "country": "Cambodia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Elite ONE",
+          "key": "CameroonEliteONE"
+        }
+      ],
+      "country": "Cameroon"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Canadian Premier League",
+          "key": "CanadaCanadianPremierLeague"
+        },
+        {
+          "leagueName": "Canadian Soccer League",
+          "key": "CanadaCanadianSoccerLeague"
+        },
+        {
+          "leagueName": "PCSL",
+          "key": "CanadaPCSL"
+        }
+      ],
+      "country": "Canada"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera División",
+          "key": "ChilePrimeraApertura"
+        },
+        {
+          "leagueName": "Primera B",
+          "key": "ChilePrimeraB"
+        },
+        {
+          "leagueName": "Copa Chile",
+          "key": "ChileCopaChile"
+        }
+      ],
+      "country": "Chile"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "CSL",
+          "key": "ChinaCSL"
+        },
+        {
+          "leagueName": "China League One",
+          "key": "ChinaLeagueOne"
+        },
+        {
+          "leagueName": "FA Cup",
+          "key": "ChinaFACup"
+        }
+      ],
+      "country": "China"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera A",
+          "key": "ColombiaPrimeraAClausura"
+        },
+        {
+          "leagueName": "Primera B",
+          "key": "ColombiaPrimeraB"
+        },
+        {
+          "leagueName": "Copa Colombia",
+          "key": "ColombiaCopaColombia"
+        }
+      ],
+      "country": "Colombia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Super Ligue",
+          "key": "CongoKinshasaSuperLigue"
+        }
+      ],
+      "country": "Congo Kinshasa"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera División",
+          "key": "CostaRicaPrimeraDivision"
+        },
+        {
+          "leagueName": "Liga de Ascenso",
+          "key": "CostaRicaLigadeAscenso"
+        }
+      ],
+      "country": "Costa Rica"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "1. HNL",
+          "key": "Croatia1HNL"
+        },
+        {
+          "leagueName": "2. HNL",
+          "key": "Croatia2HNL"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "CroatiaHRNogometniCup"
+        }
+      ],
+      "country": "Croatia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "1. Division",
+          "key": "Cyprus1.Division"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "CyprusCup"
+        }
+      ],
+      "country": "Cyprus"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Czech Liga",
+          "key": "CzechRepublicCzechLiga"
+        },
+        {
+          "leagueName": "FNL",
+          "key": "CzechRepublicFNL"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "CzechRepublicCup"
+        },
+        {
+          "leagueName": "Super Cup",
+          "key": "CzechRepublicSuperCup"
+        },
+        {
+          "leagueName": "3. liga CFL",
+          "key": "CzechRepublicLiga3CFL"
+        },
+        {
+          "leagueName": "3. liga MSFL",
+          "key": "CzechRepublicLiga3MSFL"
+        },
+        {
+          "leagueName": "3. Division A",
+          "key": "CzechRepublicLiga4DivisionA"
+        },
+        {
+          "leagueName": "3. Division B",
+          "key": "CzechRepublicLiga4DivisionB"
+        },
+        {
+          "leagueName": "3. Division C",
+          "key": "CzechRepublicLiga4DivisionC"
+        },
+        {
+          "leagueName": "3. Division D",
+          "key": "CzechRepublicLiga4DivisionD"
+        },
+        {
+          "leagueName": "3. Division E",
+          "key": "CzechRepublicLiga4DivisionE"
+        }
+      ],
+      "country": "Czech Republic"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Superliga",
+          "key": "DenmarkSuperliga"
+        },
+        {
+          "leagueName": "1st Division",
+          "key": "Denmark1stDivision"
+        },
+        {
+          "leagueName": "DBU Pokalen",
+          "key": "DenmarkDBUPokalen"
+        },
+        {
+          "leagueName": "2nd Division Øst",
+          "key": "Denmark2ndDivisionEast"
+        },
+        {
+          "leagueName": "2nd Division Vest",
+          "key": "Denmark2ndDivisionWest"
+        },
+        {
+          "leagueName": "Denmark Series Gruppe 1",
+          "key": "DenmarkDenmarkSeriesGroup1"
+        },
+        {
+          "leagueName": "Denmark Series Gruppe 2",
+          "key": "DenmarkDenmarkSeriesGroup2"
+        },
+        {
+          "leagueName": "Denmark Series Gruppe 3",
+          "key": "DenmarkDenmarkSeriesGroup3"
+        }
+      ],
+      "country": "Denmark"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera A Apertura",
+          "key": "EcuadorPrimeraApertura"
+        },
+        {
+          "leagueName": "Primera A Clausura",
+          "key": "EcuadorPrimeraClausura"
+        }
+      ],
+      "country": "Ecuador"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "EgyptPremierLeague"
+        }
+      ],
+      "country": "Egypt"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera Division",
+          "key": "ElsalvadorPrimeraDivision"
+        }
+      ],
+      "country": "El salvador"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Meistriliiga",
+          "key": "EstoniaMeistriliiga"
+        },
+        {
+          "leagueName": "Esiliiga A",
+          "key": "EstoniaEsiliigaA"
+        }
+      ],
+      "country": "Estonia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "EthiopiaPremierLeague"
+        }
+      ],
+      "country": "Ethiopia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Meistaradeildin",
+          "key": "FaroeislandsMeistaradeildin"
+        },
+        {
+          "leagueName": "1. Deild",
+          "key": "Faroeislands1Deild"
+        }
+      ],
+      "country": "Faroe islands"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "National Football League",
+          "key": "FijiNationalFootballLeague"
+        }
+      ],
+      "country": "Fiji"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Veikkausliiga",
+          "key": "FinlandVeikkausliiga"
+        },
+        {
+          "leagueName": "Ykkönen",
+          "key": "FinlandYkkonen"
+        },
+        {
+          "leagueName": "Suomen Cup",
+          "key": "FinlandSuomenCup"
+        },
+        {
+          "leagueName": "Kakkonen Lohko Ita",
+          "key": "FinlandKakkonenLohkoA"
+        },
+        {
+          "leagueName": "Kakkonen Lohko Pohjoinen",
+          "key": "FinlandKakkonenLohkoB"
+        },
+        {
+          "leagueName": "Kakkonen Lohko Etela",
+          "key": "FinlandKakkonenLohkoC"
+        },
+        {
+          "leagueName": "Kakkonen Lohko Lansi",
+          "key": "FinlandKakkonenLohkoD"
+        }
+      ],
+      "country": "Finland"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Championnat D1",
+          "key": "GabonPremierLeague"
+        }
+      ],
+      "country": "Gabon"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Erovnuli Liga",
+          "key": "GeorgiaUmaglesiLiga"
+        },
+        {
+          "leagueName": "Erovnuli Liga 2",
+          "key": "GeorgiaPirveliLiga"
+        }
+      ],
+      "country": "Georgia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "GhanaPremierLeague"
+        }
+      ],
+      "country": "Ghana"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Super League",
+          "key": "GreeceSuperLeague"
+        },
+        {
+          "leagueName": "SuperLeague 2",
+          "key": "GreeceSuperLeague2"
+        },
+        {
+          "leagueName": "Football League",
+          "key": "GreeceFootballLeague"
+        },
+        {
+          "leagueName": "Gamma Ethniki Group A",
+          "key": "GreeceGammaEthnikigroupA"
+        },
+        {
+          "leagueName": "Gamma Ethniki Group B",
+          "key": "GreeceGammaEthnikigroupB"
+        },
+        {
+          "leagueName": "Gamma Ethniki Group C",
+          "key": "GreeceGammaEthnikigroupC"
+        },
+        {
+          "leagueName": "Gamma Ethniki Group D",
+          "key": "GreeceGammaEthnikigroupD"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "GreeceCup"
+        }
+      ],
+      "country": "Greece"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier Division",
+          "key": "GrenadaPremierDivision"
+        }
+      ],
+      "country": "Grenada"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Division d'Honneur",
+          "key": "GuadeloupeNationalFootballLeague"
+        }
+      ],
+      "country": "Guadeloupe"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Liga Nacional",
+          "key": "GuatemalaLigaNacional"
+        },
+        {
+          "leagueName": "Primera Division",
+          "key": "GuatemalaPrimeraDivision"
+        }
+      ],
+      "country": "Guatemala"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Championnat National",
+          "key": "HaitiChampionnatNational"
+        }
+      ],
+      "country": "Haiti"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Liga Nacional",
+          "key": "HondurasLigaNacional"
+        }
+      ],
+      "country": "Honduras"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "HongKongPremierleague"
+        },
+        {
+          "leagueName": "HKFA 1st Division",
+          "key": "HongKongFirstDivision"
+        }
+      ],
+      "country": "Hong Kong"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "NB I",
+          "key": "HungaryNBI"
+        },
+        {
+          "leagueName": "Magyar Kupa",
+          "key": "HungaryMagyarKupa"
+        },
+        {
+          "leagueName": "NB II Kelet",
+          "key": "HungaryNBIIEast"
+        },
+        {
+          "leagueName": "NB II Nyugati",
+          "key": "HungaryNBIIWest"
+        },
+        {
+          "leagueName": "NB III Alfold",
+          "key": "HungaryNBIIIAlfold"
+        },
+        {
+          "leagueName": "NB III Bakony",
+          "key": "HungaryNBIIIBakony"
+        },
+        {
+          "leagueName": "NB III Drava",
+          "key": "HungaryNBIIIDrava"
+        },
+        {
+          "leagueName": "NB III Duna",
+          "key": "HungaryNBIIIDuna"
+        },
+        {
+          "leagueName": "NB III Matra",
+          "key": "HungaryNBIIIMatra"
+        },
+        {
+          "leagueName": "NB III Tisza",
+          "key": "HungaryNBIIITisza"
+        }
+      ],
+      "country": "Hungary"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Úrvalsdeild",
+          "key": "IcelandUrvalsdeild"
+        },
+        {
+          "leagueName": "1. Deild",
+          "key": "Iceland1Deild"
+        },
+        {
+          "leagueName": "2. Deild",
+          "key": "Iceland2Deild"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "IcelandCup"
+        },
+        {
+          "leagueName": "CAF Confederation Cup",
+          "key": "IcelandLeagueCup"
+        }
+      ],
+      "country": "Iceland"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Indian Super League",
+          "key": "IndiaIndianSuperLeague"
+        },
+        {
+          "leagueName": "I-League",
+          "key": "IndiaILeague"
+        },
+        {
+          "leagueName": "Santosh Trophy",
+          "key": "IndiaSanthoshTrophy"
+        }
+      ],
+      "country": "India"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Liga 1",
+          "key": "IndonesiaSuperLiga"
+        },
+        {
+          "leagueName": "Piala Indonesia",
+          "key": "IndonesiaPialaIndonesia"
+        },
+        {
+          "leagueName": "Liga 2",
+          "key": "IndonesiaISL",
+          "id_gs": 1749
+        }
+      ],
+      "country": "Indonesia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Copa Libertadores",
+          "key": "InternationalCupsLibertadores"
+        },
+        {
+          "leagueName": "Asian Cup",
+          "key": "InternationalCupsAsianCup"
+        },
+        {
+          "leagueName": "Asian Cup Qualification",
+          "key": "InternationalCupsAsianCupQualifications",
+          "id_gs": 1779
+        },
+        {
+          "leagueName": "Pacific Games",
+          "key": "InternationalCupsPacificGames"
+        },
+        {
+          "leagueName": "Copa America",
+          "key": "InternationalCupsCopaAmerica"
+        },
+        {
+          "leagueName": "Africa Cup of Nations",
+          "key": "InternationalCupsAfricaCupOfNations"
+        },
+        {
+          "leagueName": "Africa Cup of Nations Qualification",
+          "key": "InternationalCupsAfricaCupOfNationsQualifications"
+        },
+        {
+          "leagueName": "AFC Cup",
+          "key": "InternationalCupsAFCCup"
+        },
+        {
+          "leagueName": "AFC Champions League",
+          "key": "InternationalCupsAFCChampionship"
+        },
+        {
+          "leagueName": "AFC Challenge Cup",
+          "key": "InternationalCupsAFCChallengeCup"
+        },
+        {
+          "leagueName": "CAF Champions League",
+          "key": "InternationalCupsCAFChampionsLeague"
+        },
+        {
+          "leagueName": "CAF Confederation Cup",
+          "key": "InternationalCupsCAFConfederationsCup"
+        },
+        {
+          "leagueName": "Confederations Cup",
+          "key": "InternationalCupsConfederationsCup"
+        },
+        {
+          "leagueName": "CONCACAF Gold Cup",
+          "key": "InternationalCupsConcacafGoldCup"
+        },
+        {
+          "leagueName": "CONCACAF Champions League",
+          "key": "InternationalCupsConcacafLeague"
+        },
+        {
+          "leagueName": "Caribbean Cup",
+          "key": "InternationalCupsCaribbeanCup"
+        },
+        {
+          "leagueName": "AFF Championship",
+          "key": "InternationalCupsASEANCup"
+        },
+        {
+          "leagueName": "International Champions Cup",
+          "key": "InternationalCupsInternationalChampionsCup"
+        },
+        {
+          "leagueName": "Copa Sudamericana",
+          "key": "InternationalCupsCopaSudAmericana"
+        },
+        {
+          "leagueName": "Copa Centroamericana",
+          "key": "InternationalCupsCopaCentroAmericana"
+        },
+        {
+          "leagueName": "Friendlies",
+          "key": "InternationalCupsFriendlies"
+        },
+        {
+          "leagueName": "OFC Champions League",
+          "key": "InternationalCupsOFCChampionsLeague"
+        },
+        {
+          "leagueName": "Olympics",
+          "key": "InternationalCupsOlympics"
+        }
+      ],
+      "country": "International Cups"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Persian Gulf Pro League",
+          "key": "IranPersianGulfCup"
+        },
+        {
+          "leagueName": "Azadegan League",
+          "key": "IranAzadeganLeague"
+        },
+        {
+          "leagueName": "Hazfi Cup",
+          "key": "IranHazfiCup"
+        }
+      ],
+      "country": "Iran"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Iraqi League",
+          "key": "IraqIraqiLeague"
+        }
+      ],
+      "country": "Iraq"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier Division",
+          "key": "IrelandPremierLeague"
+        },
+        {
+          "leagueName": "First Division",
+          "key": "Ireland1stDivision"
+        },
+        {
+          "leagueName": "FAI Cup",
+          "key": "IrelandFAICup"
+        }
+      ],
+      "country": "Ireland"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Ligat ha'Al",
+          "key": "IsraelLigathaAl"
+        },
+        {
+          "leagueName": "Liga Leumit",
+          "key": "IsraelLigaLeumit"
+        },
+        {
+          "leagueName": "State Cup",
+          "key": "IsraelStateCup"
+        },
+        {
+          "leagueName": "Toto Cup Ligat Al",
+          "key": "IsraelTotoCupLigatAl"
+        }
+      ],
+      "country": "Israel"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Ligue 1",
+          "key": "IvoryCoastLigue1"
+        }
+      ],
+      "country": "Ivory Coast"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "JamaicaPremierLeague"
+        }
+      ],
+      "country": "Jamaica"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "J1 League",
+          "key": "JapanJ1League"
+        },
+        {
+          "leagueName": "J2 League",
+          "key": "JapanJ2League"
+        },
+        {
+          "leagueName": "Emperor Cup",
+          "key": "JapanCup"
+        },
+        {
+          "leagueName": "J-League Cup",
+          "key": "JapanNabiscoCup"
+        }
+      ],
+      "country": "Japan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "League",
+          "key": "JordanLeague"
+        }
+      ],
+      "country": "Jordan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "KazakhstanPremierLeague"
+        },
+        {
+          "leagueName": "1. Division",
+          "key": "Kazakhstan1stDivision"
+        }
+      ],
+      "country": "Kazakhstan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "KenyaLeague"
+        }
+      ],
+      "country": "Kenya"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "KuwaitPremierLeague"
+        },
+        {
+          "leagueName": "Division 1",
+          "key": "KuwaitDivision1"
+        }
+      ],
+      "country": "Kuwait"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Top Liga",
+          "key": "KyrgyzstanTopLiga"
+        }
+      ],
+      "country": "Kyrgyzstan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Virsliga",
+          "key": "LatviaVirsliga"
+        },
+        {
+          "leagueName": "1. Liga",
+          "key": "Latvia1Liga"
+        }
+      ],
+      "country": "Latvia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "LebanonPremierLeague"
+        }
+      ],
+      "country": "Lebanon"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "LibyaPremierLeague"
+        }
+      ],
+      "country": "Libya"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "A Lyga",
+          "key": "LithuaniaALyga"
+        },
+        {
+          "leagueName": "1 Lyga",
+          "key": "Lithuania1Lyga"
+        }
+      ],
+      "country": "Lithuania"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "LuxembourgNationalDivision"
+        }
+      ],
+      "country": "Luxembourg"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "First League",
+          "key": "MacedoniaFirstLeague"
+        },
+        {
+          "leagueName": "Second League",
+          "key": "MacedoniaSecondLeague"
+        }
+      ],
+      "country": "Macedonia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Super League",
+          "key": "MalaysiaSuperLeague"
+        },
+        {
+          "leagueName": "Premier League",
+          "key": "MalaysiaPremierLeague"
+        }
+      ],
+      "country": "Malaysia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Première Division",
+          "key": "MaliPremiereDivision"
+        }
+      ],
+      "country": "Mali"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "MaltaPremierDivision"
+        },
+        {
+          "leagueName": "First Division",
+          "key": "MaltaFirstDivision"
+        }
+      ],
+      "country": "Malta"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Liga MX Clausura",
+          "key": "MexicoAscensoMXClausura"
+        },
+        {
+          "leagueName": "Ascenso MX",
+          "key": "MexicoPrimeraA"
+        },
+        {
+          "leagueName": "Copa MX",
+          "key": "MexicoCopaMX"
+        }
+      ],
+      "country": "Mexico"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Divizia Națională",
+          "key": "MoldoviaDiviziaNazionala"
+        }
+      ],
+      "country": "Moldovia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "First League",
+          "key": "MontenegroPrvaLiga"
+        }
+      ],
+      "country": "Montenegro"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Botola Pro",
+          "key": "MoroccoGNEF1"
+        },
+        {
+          "leagueName": "Botola 2",
+          "key": "MoroccoGNEF2"
+        }
+      ],
+      "country": "Morocco"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Moçambola",
+          "key": "MozambiqueMocambola",
+          "id_gs": 2506
+        }
+      ],
+      "country": "Mozambique"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "NamibiaPremierLeague"
+        }
+      ],
+      "country": "Namibia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Eredivisie",
+          "key": "NetherlandsEredivisie"
+        },
+        {
+          "leagueName": "Eerste Divisie",
+          "key": "NetherlandsEersteDivisie"
+        },
+        {
+          "leagueName": "Tweede Divisie",
+          "key": "NetherlandsTweedeDivisie"
+        },
+        {
+          "leagueName": "KNVB Beker",
+          "key": "NetherlandsKNVBBeker"
+        },
+        {
+          "leagueName": "Play-offs 1/2",
+          "key": "NetherlandsPlayoffs"
+        },
+        {
+          "leagueName": "Super Cup",
+          "key": "NetherlandsJohanCruijffSchaal"
+        },
+        {
+          "leagueName": "Derde Divisie Zaterdag",
+          "key": "NetherlandsTopKlassezaterdag"
+        },
+        {
+          "leagueName": "Derde Divisie Zondag",
+          "key": "NetherlandsTopKlassezondag"
+        },
+        {
+          "leagueName": "Beloften",
+          "key": "NetherlandsJongBeloften"
+        }
+      ],
+      "country": "Netherlands"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premiership",
+          "key": "NewZealandPremiership"
+        }
+      ],
+      "country": "New Zealand"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera Division",
+          "key": "NicaraguaPrimeraDivision"
+        }
+      ],
+      "country": "Nicaragua"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "NPFL",
+          "key": "NigeriaPremierLeague"
+        }
+      ],
+      "country": "Nigeria"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premiership",
+          "key": "NorthernIrelandNorthernIrelandIFAPremiership"
+        },
+        {
+          "leagueName": "Championship",
+          "key": "NorthernIrelandNorthernIrelandChampionship"
+        },
+        {
+          "leagueName": "League Cup",
+          "key": "NorthernIrelandLeagueCup",
+          "id_gs": 2087
+        }
+      ],
+      "country": "Northern Ireland"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Eliteserien",
+          "key": "NorwayEliteserien"
+        },
+        {
+          "leagueName": "1. Division",
+          "key": "NorwayAdeccoligaen"
+        },
+        {
+          "leagueName": "NM Cupen",
+          "key": "NorwayNMCupen"
+        },
+        {
+          "leagueName": "2. Division Avdeling 1",
+          "key": "Norway2DivisjonAvdeling1"
+        },
+        {
+          "leagueName": "2. Division Avdeling 2",
+          "key": "Norway2DivisjonAvdeling2"
+        },
+        {
+          "leagueName": "2. Division Avdeling 3",
+          "key": "Norway2DivisjonAvdeling3"
+        },
+        {
+          "leagueName": "2. Division Avdeling 4",
+          "key": "Norway2DivisjonAvdeling4"
+        }
+      ],
+      "country": "Norway"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Professional League",
+          "key": "OmanEliteLeague"
+        }
+      ],
+      "country": "Oman"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "PakistanPremierLeague"
+        }
+      ],
+      "country": "Pakistan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "LPF",
+          "key": "PanamaLPF"
+        }
+      ],
+      "country": "Panama"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Division Profesional Apertura",
+          "key": "ParaguayDivisionProfesionalApertura"
+        },
+        {
+          "leagueName": "Division Profesional Clausura",
+          "key": "ParaguayDivisionProfesionalClausura"
+        }
+      ],
+      "country": "Paraguay"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera División",
+          "key": "PeruPrimeraDivision"
+        },
+        {
+          "leagueName": "Segunda División",
+          "key": "PeruSegundaDivision"
+        },
+        {
+          "leagueName": "Copa Inca",
+          "key": "PeruCopaInca"
+        },
+        {
+          "leagueName": "Copa Bicentenario",
+          "key": "PeruCopaBicentenario"
+        }
+      ],
+      "country": "Peru"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "UFL",
+          "key": "PhilippinesChampionnatNational"
+        }
+      ],
+      "country": "Philippines"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Ekstraklasa",
+          "key": "PolandEkstraklasa"
+        },
+        {
+          "leagueName": "I Liga",
+          "key": "PolandLiga1"
+        },
+        {
+          "leagueName": "II Liga wschod",
+          "key": "PolandLiga2East"
+        },
+        {
+          "leagueName": "II Liga zachod",
+          "key": "PolandLiga2West"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "PolandCup"
+        }
+      ],
+      "country": "Poland"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primeira Liga",
+          "key": "PortugalPrimeiraLiga"
+        },
+        {
+          "leagueName": "Segunda Liga",
+          "key": "PortugalSegundaLiga"
+        },
+        {
+          "leagueName": "Taça de Portugal",
+          "key": "PortugalTacadePortugal"
+        },
+        {
+          "leagueName": "Super Cup",
+          "key": "PortugalSuperCup"
+        },
+        {
+          "leagueName": "Taça da Liga",
+          "key": "PortugalTacadaLiga"
+        },
+        {
+          "leagueName": "Campeonato de Portugal Prio Grupo A",
+          "key": "PortugalCampeonatoNacional-GroupA"
+        },
+        {
+          "leagueName": "Campeonato de Portugal Prio Grupo B",
+          "key": "PortugalCampeonatoNacional-GroupB"
+        },
+        {
+          "leagueName": "Campeonato de Portugal Prio Grupo C",
+          "key": "PortugalCampeonatoNacional-GroupC"
+        },
+        {
+          "leagueName": "Campeonato de Portugal Prio Grupo D",
+          "key": "PortugalCampeonatoNacional-GroupD"
+        }
+      ],
+      "country": "Portugal"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Stars League",
+          "key": "QatarStarsLeague"
+        },
+        {
+          "leagueName": "Second Division",
+          "key": "QatarQLeague"
+        }
+      ],
+      "country": "Qatar"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Liga I",
+          "key": "RomaniaLigaI"
+        },
+        {
+          "leagueName": "Cupa României",
+          "key": "RomaniaCupaRomaniei",
+          "id_gs": 1862
+        },
+        {
+          "leagueName": "Supercupa",
+          "key": "RomaniaSupercupa"
+        },
+        {
+          "leagueName": "Liga II Seria 1",
+          "key": "RomaniaLigaIIseria1"
+        },
+        {
+          "leagueName": "Liga II Seria 2",
+          "key": "RomaniaLigaIIseria2"
+        },
+        {
+          "leagueName": "Liga III Seria 1",
+          "key": "RomaniaLigaIIIseria1"
+        },
+        {
+          "leagueName": "Liga III Seria 2",
+          "key": "RomaniaLigaIIIseria2"
+        },
+        {
+          "leagueName": "Liga III Seria 3",
+          "key": "RomaniaLigaIIIseria3"
+        },
+        {
+          "leagueName": "Liga III Seria 4",
+          "key": "RomaniaLigaIIIseria4"
+        },
+        {
+          "leagueName": "Liga III Seria 5",
+          "key": "RomaniaLigaIIIseria5"
+        },
+        {
+          "leagueName": "Liga III Seria 6",
+          "key": "RomaniaLigaIIIseria6"
+        }
+      ],
+      "country": "Romania"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "RussiaPremierLeague"
+        },
+        {
+          "leagueName": "FNL",
+          "key": "RussiaFNL"
+        },
+        {
+          "leagueName": "2. Division Tsentr",
+          "key": "Russia2.Divisioncenter"
+        },
+        {
+          "leagueName": "2. Division Vostok",
+          "key": "Russia2.Divisioneast"
+        },
+        {
+          "leagueName": "2. Division Zapad",
+          "key": "Russia2.Divisionwest"
+        },
+        {
+          "leagueName": "2. Division Yugo",
+          "key": "Russia2.Divisionsouth"
+        },
+        {
+          "leagueName": "2. Division Ural Povolzhye",
+          "key": "Russia2.DivisionUralPovolzhye"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "RussiaCup"
+        },
+        {
+          "leagueName": "Play-offs 1/2",
+          "key": "RussiaPlayoffs"
+        }
+      ],
+      "country": "Russia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "National Soccer League",
+          "key": "RwandaNationalSoccerLeague",
+          "id_gs": 2475
+        }
+      ],
+      "country": "Rwanda"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Campionato",
+          "key": "SanMarinoCampionato"
+        }
+      ],
+      "country": "San Marino"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Pro League",
+          "key": "SaudiArabiaProLeague"
+        },
+        {
+          "leagueName": "Division 1",
+          "key": "SaudiArabiaDivision1"
+        },
+        {
+          "leagueName": "King's Cup",
+          "key": "SaudiArabiaChampionsCup"
+        },
+        {
+          "leagueName": "Crown Prince Cup",
+          "key": "SaudiArabiaCrownPrinceCup"
+        }
+      ],
+      "country": "Saudi Arabia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premiership",
+          "key": "ScotlandPremierLeague"
+        },
+        {
+          "leagueName": "Championship",
+          "key": "ScotlandDivision1"
+        },
+        {
+          "leagueName": "League One",
+          "key": "ScotlandDivision2"
+        },
+        {
+          "leagueName": "League Two",
+          "key": "ScotlandDivision3"
+        },
+        {
+          "leagueName": "FA Cup",
+          "key": "ScotlandFacup"
+        },
+        {
+          "leagueName": "Challenge Cup",
+          "key": "ScotlandChallengeCup"
+        },
+        {
+          "leagueName": "League Cup",
+          "key": "ScotlandLeagueCup"
+        }
+      ],
+      "country": "Scotland"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Ligue 1",
+          "key": "SenegalLigue1"
+        }
+      ],
+      "country": "Senegal"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Super Liga",
+          "key": "SerbiaSuperLiga"
+        },
+        {
+          "leagueName": "Prva Liga",
+          "key": "SerbiaPrvaLiga"
+        },
+        {
+          "leagueName": "Srpska Liga Belgrade",
+          "key": "SerbiaSrpskaLigaBelgrade"
+        },
+        {
+          "leagueName": "Srpska Liga East",
+          "key": "SerbiaSrpskaLigaEast"
+        },
+        {
+          "leagueName": "Srpska Liga Vojvodina",
+          "key": "SerbiaSrpskaLigaVojvodina"
+        },
+        {
+          "leagueName": "Srpska Liga West",
+          "key": "SerbiaSrpskaLigaWest"
+        }
+      ],
+      "country": "Serbia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "S.League",
+          "key": "SingaporeSLeague"
+        },
+        {
+          "leagueName": "League Cup",
+          "key": "SingaporeCup"
+        }
+      ],
+      "country": "Singapore"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Super Liga",
+          "key": "SlovakiaSuperLiga"
+        },
+        {
+          "leagueName": "2. liga",
+          "key": "Slovakia2Liga"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "SlovakiaCup"
+        },
+        {
+          "leagueName": "3. liga Vychod",
+          "key": "Slovakia3LigaVychod"
+        },
+        {
+          "leagueName": "3. liga Zapad",
+          "key": "Slovakia3LigaZapad"
+        }
+      ],
+      "country": "Slovakia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "1. SNL",
+          "key": "Slovenia1-SNL"
+        },
+        {
+          "leagueName": "2. SNL",
+          "key": "Slovenia2-SNL"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "SloveniaCup",
+          "id_gs": 1388
+        }
+      ],
+      "country": "Slovenia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "PSL",
+          "key": "SouthAfricaPremierLeague"
+        }
+      ],
+      "country": "South Africa"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "K League Classic",
+          "key": "SouthKoreaKLeagueClassic"
+        },
+        {
+          "leagueName": "National League",
+          "key": "SouthKoreaNationalLeague"
+        },
+        {
+          "leagueName": "K3 League Advanced",
+          "key": "SouthKoreaChallengersLeague"
+        },
+        {
+          "leagueName": "K League Cup",
+          "key": "SouthKoreaKLeagueCup"
+        }
+      ],
+      "country": "South Korea"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Sudani Premier League",
+          "key": "SudanPremierLeague"
+        }
+      ],
+      "country": "Sudan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Topklasse",
+          "key": "SurinameHoofdklasse"
+        }
+      ],
+      "country": "Suriname"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Allsvenskan",
+          "key": "SwedenAllsvenskan"
+        },
+        {
+          "leagueName": "Superettan",
+          "key": "SwedenSuperettan"
+        },
+        {
+          "leagueName": "Svenska Cupen",
+          "key": "SwedenSvenskaCupen"
+        },
+        {
+          "leagueName": "Division 1 Norra",
+          "key": "SwedenDivision1Norra"
+        },
+        {
+          "leagueName": "Division 1 Sodra",
+          "key": "SwedenDivision1Sodra"
+        },
+        {
+          "leagueName": "Division 2 Norra Gotaland",
+          "key": "SwedenDivision2NorraGotaland"
+        },
+        {
+          "leagueName": "Division 2 Norra Svealand",
+          "key": "SwedenDivision2NorraSvealand"
+        },
+        {
+          "leagueName": "Division 2 Norrland",
+          "key": "SwedenDivision2Norrland"
+        },
+        {
+          "leagueName": "Division 2 Sodra Gotaland",
+          "key": "SwedenDivision2SodraGotaland"
+        },
+        {
+          "leagueName": "Division 2 Sodra Svealand",
+          "key": "SwedenDivision2SodraSvealand"
+        },
+        {
+          "leagueName": "Division 2 Vastra Gotaland",
+          "key": "SwedenDivision2VastraGotaland"
+        }
+      ],
+      "country": "Sweden"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Super League",
+          "key": "SwitzerlandSuperLeague"
+        },
+        {
+          "leagueName": "Challenge League",
+          "key": "SwitzerlandChallengeLeague"
+        },
+        {
+          "leagueName": "1. Liga Promotion",
+          "key": "SwitzerlandLigaClassicPromotion"
+        },
+        {
+          "leagueName": "1. Liga Classic Group 1",
+          "key": "SwitzerlandLigaClassicGroup1",
+          "id_gs": 2893
+        },
+        {
+          "leagueName": "1. Liga Classic Group 2",
+          "key": "SwitzerlandLigaClassicGroup2",
+          "id_gs": 2894
+        },
+        {
+          "leagueName": "1. Liga Classic Group 3",
+          "key": "SwitzerlandLigaClassicGroup3",
+          "id_gs": 2895
+        },
+        {
+          "leagueName": "Schweizer Pokal",
+          "key": "SwitzerlandCup"
+        }
+      ],
+      "country": "Switzerland"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Vysshaya Liga",
+          "key": "TajikistanVysshayaLiga",
+          "id_gs": 2597
+        }
+      ],
+      "country": "Tajikistan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Ligi kuu Bara",
+          "key": "TanzaniaLigikuuBara"
+        }
+      ],
+      "country": "Tanzania"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Thai League",
+          "key": "ThailandPremierLeague"
+        },
+        {
+          "leagueName": "Thai League 2",
+          "key": "ThailandDivision1"
+        }
+      ],
+      "country": "Thailand"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "T & T Pro League",
+          "key": "TrinidadandTobagoPremierLeague"
+        }
+      ],
+      "country": "Trinidad and Tobago"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Ligue 1",
+          "key": "TunisiaLigue1"
+        }
+      ],
+      "country": "Tunisia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Süper Lig",
+          "key": "TurkeySuperLig"
+        },
+        {
+          "leagueName": "1. Lig",
+          "key": "TurkeyLigA"
+        },
+        {
+          "leagueName": "2. Lig Beyaz",
+          "key": "TurkeyLigBBeyaz"
+        },
+        {
+          "leagueName": "2. Lig Kirmizi",
+          "key": "TurkeyLigBKirmizi"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "TurkeyCup"
+        },
+        {
+          "leagueName": "3. Lig grup 1",
+          "key": "TurkeyLigCGroup1"
+        },
+        {
+          "leagueName": "3. Lig grup 2",
+          "key": "TurkeyLigCGroup2"
+        },
+        {
+          "leagueName": "3. Lig grup 3",
+          "key": "TurkeyLigCGroup3"
+        }
+      ],
+      "country": "Turkey"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "UgandaLigaNacional"
+        }
+      ],
+      "country": "Uganda"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "UkrainePremierLeague"
+        },
+        {
+          "leagueName": "Persha Liga",
+          "key": "UkrainePershaLiga"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "UkraineCup"
+        },
+        {
+          "leagueName": "Druha Liga Gryp A",
+          "key": "UkraineSecondLeagueGrypA"
+        },
+        {
+          "leagueName": "Druha Liga Gryp B",
+          "key": "UkraineSecondLeagueGrypB"
+        }
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Arabian Gulf League",
+          "key": "UnitedArabEmiratesGulfLeague"
+        },
+        {
+          "leagueName": "Division 1",
+          "key": "UnitedArabEmirates1stDivision"
+        }
+      ],
+      "country": "United Arab Emirates"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "MLS",
+          "key": "UnitedStatesMLS"
+        },
+        {
+          "leagueName": "NASL",
+          "key": "UnitedStatesNASL"
+        },
+        {
+          "leagueName": "USL",
+          "key": "UnitedStatesUSLChampionship"
+        },
+        {
+          "leagueName": "USL League one",
+          "key": "UnitedStatesUSLLeagueone"
+        },
+        {
+          "leagueName": "USL 2",
+          "key": "UnitedStatesUSL2"
+        },
+        {
+          "leagueName": "PDL",
+          "key": "UnitedStatesPDL"
+        },
+        {
+          "leagueName": "US Open Cup",
+          "key": "UnitedStatesCup"
+        },
+        {
+          "leagueName": "NWSL",
+          "key": "UnitedStatesNWSLWoman"
+        }
+      ],
+      "country": "United States"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera División Apertura",
+          "key": "UruguayPrimeraDivision:Apertura"
+        },
+        {
+          "leagueName": "Primera División Clausura",
+          "key": "UruguayPrimeraDivision:Clausura"
+        },
+        {
+          "leagueName": "Segunda División",
+          "key": "UruguaySegundaDivision"
+        }
+      ],
+      "country": "Uruguay"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "PFL",
+          "key": "UzbekistanOliyLiga"
+        }
+      ],
+      "country": "Uzbekistan"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Primera División",
+          "key": "VenezuelaPrimeraDivision"
+        },
+        {
+          "leagueName": "Segunda División",
+          "key": "VenezuelaSegundaDivision"
+        }
+      ],
+      "country": "Venezuela"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "V.League 1",
+          "key": "VietnamVLeague"
+        },
+        {
+          "leagueName": "V.League 2",
+          "key": "VietnamVLeague2"
+        },
+        {
+          "leagueName": "Cup",
+          "key": "VietnamCup"
+        }
+      ],
+      "country": "Vietnam"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "WalesPremierLeague"
+        },
+        {
+          "leagueName": "Welsh Cup",
+          "key": "WalesFACup"
+        },
+        {
+          "leagueName": "Feeder Leagues Cymru Alliance",
+          "key": "WalesCymruAlliance"
+        },
+        {
+          "leagueName": "Feeder Leagues Welsh League Division1",
+          "key": "WalesWelshLeagueDivision1"
+        }
+      ],
+      "country": "Wales"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Yemeni League",
+          "key": "YemenYemeniLeague"
+        }
+      ],
+      "country": "Yemen"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Super League",
+          "key": "ZambiaSuperLeague"
+        }
+      ],
+      "country": "Zambia"
+    },
+    {
+      "leagues": [
+        {
+          "leagueName": "Premier League",
+          "key": "syriaPremierLeague"
+        }
+      ],
+      "country": "syria"
+    }
+  ]
 }
