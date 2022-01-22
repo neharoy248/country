@@ -583,6 +583,47 @@
     {
       "leagues": [
         {
+          "leagueName": "Primeira Liga",
+          "key": "PortugalPrimeiraLiga"
+        },
+        {
+          "leagueName": "Segunda Liga",
+          "key": "PortugalSegundaLiga"
+        },
+        {
+          "leagueName": "Taça de Portugal",
+          "key": "PortugalTacadePortugal"
+        },
+        {
+          "leagueName": "Super Cup",
+          "key": "PortugalSuperCup"
+        },
+        {
+          "leagueName": "Taça da Liga",
+          "key": "PortugalTacadaLiga"
+        },
+        {
+          "leagueName": "Campeonato de Portugal Prio Grupo A",
+          "key": "PortugalCampeonatoNacional-GroupA"
+        },
+        {
+          "leagueName": "Campeonato de Portugal Prio Grupo B",
+          "key": "PortugalCampeonatoNacional-GroupB"
+        },
+        {
+          "leagueName": "Campeonato de Portugal Prio Grupo C",
+          "key": "PortugalCampeonatoNacional-GroupC"
+        },
+        {
+          "leagueName": "Campeonato de Portugal Prio Grupo D",
+          "key": "PortugalCampeonatoNacional-GroupD"
+        }
+      ],
+      "country": "Portugal"
+    },
+    {
+      "leagues": [
+        {
           "leagueName": "Superliga",
           "key": "AlbaniaSuperliga"
         },
@@ -2455,47 +2496,6 @@
         }
       ],
       "country": "Poland"
-    },
-    {
-      "leagues": [
-        {
-          "leagueName": "Primeira Liga",
-          "key": "PortugalPrimeiraLiga"
-        },
-        {
-          "leagueName": "Segunda Liga",
-          "key": "PortugalSegundaLiga"
-        },
-        {
-          "leagueName": "Taça de Portugal",
-          "key": "PortugalTacadePortugal"
-        },
-        {
-          "leagueName": "Super Cup",
-          "key": "PortugalSuperCup"
-        },
-        {
-          "leagueName": "Taça da Liga",
-          "key": "PortugalTacadaLiga"
-        },
-        {
-          "leagueName": "Campeonato de Portugal Prio Grupo A",
-          "key": "PortugalCampeonatoNacional-GroupA"
-        },
-        {
-          "leagueName": "Campeonato de Portugal Prio Grupo B",
-          "key": "PortugalCampeonatoNacional-GroupB"
-        },
-        {
-          "leagueName": "Campeonato de Portugal Prio Grupo C",
-          "key": "PortugalCampeonatoNacional-GroupC"
-        },
-        {
-          "leagueName": "Campeonato de Portugal Prio Grupo D",
-          "key": "PortugalCampeonatoNacional-GroupD"
-        }
-      ],
-      "country": "Portugal"
     },
     {
       "leagues": [
